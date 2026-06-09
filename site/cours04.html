@@ -1,0 +1,2943 @@
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://prof-inter-web.github.io/audio-1/cours04.html">
+      
+      
+        <link rel="prev" href="cours03.html">
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Cours 4 - Audio 1</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+        <script src="https://unpkg.com/iframe-worker/shim"></script>
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/shift-away.css">
+    
+      <link rel="stylesheet" href="https://unpkg.com/lightgallery@2.8.2/css/lightgallery.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/tokyo-night-dark.min.css">
+    
+      <link rel="stylesheet" href="_/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-BFKT7FS4P2"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-BFKT7FS4P2",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-BFKT7FS4P2",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analyse-sonore-et-introduction-au-montage-audio" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href="." title="Audio 1" class="md-header__button md-logo" aria-label="Audio 1" data-md-component="logo">
+      
+  <img src="_/logo-tim2.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Audio 1
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cours 4
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Audio 1" class="md-nav__button md-logo" aria-label="Audio 1" data-md-component="logo">
+      
+  <img src="_/logo-tim2.svg" alt="logo">
+
+    </a>
+    Audio 1
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="index.html" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Audio 1
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Audio 1
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours01.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours02.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours03.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 4
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="cours04.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objectifs-du-cours" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Objectifs du cours
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tp2-le-souvenir-dun-reve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          TP2 – Le souvenir d'un rêve
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TP2 – Le souvenir d&#39;un rêve">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#questions-a-se-poser" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Questions à se poser
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reflexion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Réflexion
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#retour-critique-du-tp3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Retour critique du TP3
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluer-une-prise-de-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Évaluer une prise de son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Évaluer une prise de son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#qualite-technique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qualité technique
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interet-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Intérêt sonore
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-meilleurs-sons" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Les meilleurs sons
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-sons-a-ameliorer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Les sons à améliorer
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dessiner-un-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Dessiner un son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dessiner un son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#son-court" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son court
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#son-progressif" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son progressif
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#son-impulsif" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son impulsif
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lenveloppe-dun-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          L'enveloppe d'un son
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attaque-attack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Attaque (Attack)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#maintien-sustain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Maintien (Sustain)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#relachement-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Relâchement (Release)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pourquoi-est-ce-important" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Pourquoi est-ce important ?
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vocabulaire-de-base-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Vocabulaire de base du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Vocabulaire de base du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hauteur-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Hauteur (pitch)
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Hauteur (pitch)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#grave-aigu" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Grave / Aigu
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intensite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Intensité
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intensité">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#faible-fort" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Faible / Fort
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dynamique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Dynamique
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dynamique">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#la-dynamique-est-la-variation-de-volume-dans-le-temps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          La dynamique est la variation de volume dans le temps.
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duree" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Durée
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Durée">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#court-long" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Court / Long
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-percue" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Distance perçue
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Distance perçue">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#proche-lointain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Proche / Lointain
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#origine-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Origine du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Origine du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#naturel-artificiel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Naturel / Artificiel
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nature-du-signal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Nature du signal
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nature du signal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bruite-tonal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Bruité / Tonal
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#morphologie-temporelle-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Morphologie temporelle du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Morphologie temporelle du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#attaque" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Attaque
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chute-extinction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Chute / extinction
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#continuite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Continuité
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evolution-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Évolution du son
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mouvement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Mouvement
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#timbre-et-caractere-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Timbre et caractère sonore
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Timbre et caractère sonore">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#qualites-du-timbre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qualités du timbre
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Qualités du timbre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sec-resonant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Sec / Résonant
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mat-brillant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Mat / Brillant
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lisse-rugueux" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Lisse / Rugueux
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#riche" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Riche
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nasal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Nasal
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chaud" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Chaud
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rond" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Rond
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metallique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Métallique
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strident" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Strident
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#projet-a-banque-de-sons-et-reve-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Projet A – Banque de sons et rêve sonore
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectif-general" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Objectif général
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#partie-1-banque-de-sons" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Partie 1 – Banque de sons
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#partie-2-recit-du-reve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Partie 2 – Récit du rêve
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction-a-reaper" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Introduction à Reaper
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quest-ce-que-reaper" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qu'est-ce que Reaper ?
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fonctions-importantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Fonctions importantes
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conseils-pendant-les-capsules-video" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Conseils pendant les capsules vidéo
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparation-du-prochain-cours" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Préparation du prochain cours
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-retenir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          À retenir
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours05.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours06.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours07.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours08.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours09.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours10.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours11.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours12.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours13.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 13
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours14.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 14
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cours15.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cours 15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objectifs-du-cours" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Objectifs du cours
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tp2-le-souvenir-dun-reve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          TP2 – Le souvenir d'un rêve
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TP2 – Le souvenir d&#39;un rêve">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#questions-a-se-poser" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Questions à se poser
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reflexion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Réflexion
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#retour-critique-du-tp3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Retour critique du TP3
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluer-une-prise-de-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Évaluer une prise de son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Évaluer une prise de son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#qualite-technique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qualité technique
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interet-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Intérêt sonore
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-meilleurs-sons" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Les meilleurs sons
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#les-sons-a-ameliorer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Les sons à améliorer
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dessiner-un-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Dessiner un son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dessiner un son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#son-court" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son court
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#son-progressif" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son progressif
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#son-impulsif" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Son impulsif
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lenveloppe-dun-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          L'enveloppe d'un son
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attaque-attack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Attaque (Attack)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#maintien-sustain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Maintien (Sustain)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#relachement-release" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Relâchement (Release)
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pourquoi-est-ce-important" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Pourquoi est-ce important ?
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vocabulaire-de-base-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Vocabulaire de base du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Vocabulaire de base du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hauteur-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Hauteur (pitch)
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Hauteur (pitch)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#grave-aigu" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Grave / Aigu
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intensite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Intensité
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intensité">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#faible-fort" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Faible / Fort
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dynamique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Dynamique
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dynamique">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#la-dynamique-est-la-variation-de-volume-dans-le-temps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          La dynamique est la variation de volume dans le temps.
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#duree" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Durée
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Durée">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#court-long" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Court / Long
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#distance-percue" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Distance perçue
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Distance perçue">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#proche-lointain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Proche / Lointain
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#origine-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Origine du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Origine du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#naturel-artificiel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Naturel / Artificiel
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nature-du-signal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Nature du signal
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nature du signal">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bruite-tonal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Bruité / Tonal
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#morphologie-temporelle-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Morphologie temporelle du son
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Morphologie temporelle du son">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#attaque" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Attaque
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chute-extinction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Chute / extinction
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#continuite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Continuité
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evolution-du-son" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Évolution du son
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mouvement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Mouvement
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#timbre-et-caractere-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Timbre et caractère sonore
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Timbre et caractère sonore">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#qualites-du-timbre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qualités du timbre
+        </span>
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Qualités du timbre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sec-resonant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Sec / Résonant
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mat-brillant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Mat / Brillant
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lisse-rugueux" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Lisse / Rugueux
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#riche" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Riche
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nasal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Nasal
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chaud" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Chaud
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rond" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Rond
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metallique" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Métallique
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strident" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Strident
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#projet-a-banque-de-sons-et-reve-sonore" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Projet A – Banque de sons et rêve sonore
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objectif-general" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Objectif général
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#partie-1-banque-de-sons" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Partie 1 – Banque de sons
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#partie-2-recit-du-reve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Partie 2 – Récit du rêve
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction-a-reaper" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Introduction à Reaper
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quest-ce-que-reaper" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Qu'est-ce que Reaper ?
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fonctions-importantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Fonctions importantes
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conseils-pendant-les-capsules-video" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Conseils pendant les capsules vidéo
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparation-du-prochain-cours" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          Préparation du prochain cours
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-retenir" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        <span class="md-typeset">
+          À retenir
+        </span>
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<div><h1 id="analyse-sonore-et-introduction-au-montage-audio">Analyse sonore et introduction au montage audio</h1>
+<p><img alt="" data-zoom-image="data-zoom-image" src="https://miro.medium.com/v2/resize:fit:1400/0*z-MRZjGa2R62e1DA"></p>
+<h2 id="objectifs-du-cours">Objectifs du cours</h2>
+<p>À la fin de cette séance, vous serez capable de :</p>
+<ul>
+<li>Évaluer la qualité d'une prise de son</li>
+<li>Identifier les caractéristiques d'un son intéressant</li>
+<li>Comprendre la notion d'enveloppe sonore</li>
+<li>Débuter l'utilisation de Reaper</li>
+<li>Comprendre les attentes du Projet A</li>
+<li>Préparer une banque de sons pour un projet créatif</li>
+</ul>
+<h2 id="tp2-le-souvenir-dun-reve">TP2 – Le souvenir d'un rêve</h2>
+<p>L'objectif du TP2 était de décrire un rêve ou un cauchemar significatif en quelques phrases.</p>
+<h3 id="questions-a-se-poser">Questions à se poser</h3>
+<ul>
+<li>Le récit est-il clair ?</li>
+<li>Peut-on imaginer facilement la scène ?</li>
+<li>Quels sons pourraient illustrer cette histoire ?</li>
+</ul>
+<h3 id="reflexion">Réflexion</h3>
+<p>Lorsque nous créons du son pour le multimédia, nous devons constamment nous demander :</p>
+<blockquote>
+<p>Quels sons pourraient aider à raconter cette histoire ?</p>
+</blockquote>
+<h2 id="retour-critique-du-tp3">Retour critique du TP3</h2>
+<h2 id="evaluer-une-prise-de-son">Évaluer une prise de son</h2>
+<p>Lors de l'écoute de vos enregistrements, plusieurs éléments doivent être observés.</p>
+<h3 id="qualite-technique">Qualité technique</h3>
+<ul>
+<li>Le son est-il clair ?</li>
+<li>Le niveau est-il adéquat ?</li>
+<li>Y a-t-il de la distorsion ?</li>
+<li>Entend-on du bruit parasite ?</li>
+</ul>
+<h3 id="interet-sonore">Intérêt sonore</h3>
+<ul>
+<li>Le son est-il original ?</li>
+<li>Possède-t-il une texture particulière ?</li>
+<li>Pourrait-il être utilisé dans une création sonore ?</li>
+</ul>
+<h2 id="les-meilleurs-sons">Les meilleurs sons</h2>
+<p>Les meilleurs enregistrements présentent souvent :</p>
+<ul>
+<li>Une bonne qualité technique</li>
+<li>Une intention claire</li>
+<li>Une richesse sonore intéressante</li>
+<li>Une bonne gestion du microphone</li>
+</ul>
+<h2 id="les-sons-a-ameliorer">Les sons à améliorer</h2>
+<p>Les problèmes les plus fréquents sont :</p>
+<ul>
+<li>Niveau trop faible</li>
+<li>Saturation</li>
+<li>Vent</li>
+<li>Bruits de manipulation</li>
+<li>Microphone mal positionné</li>
+</ul>
+<h2 id="dessiner-un-son">Dessiner un son</h2>
+<p>Il est possible de représenter un son graphiquement.</p>
+<p>Cette méthode permet de réfléchir à sa structure et à son évolution.</p>
+<h3 id="son-court">Son court</h3>
+<pre><code>|
+</code></pre>
+<h3 id="son-progressif">Son progressif</h3>
+<pre><code>/^^^^^^\
+</code></pre>
+<h3 id="son-impulsif">Son impulsif</h3>
+<pre><code>/\_
+</code></pre>
+<p>Cette activité prépare à comprendre l'enveloppe sonore.</p>
+<h2 id="lenveloppe-dun-son">L'enveloppe d'un son</h2>
+<p>Tous les sons possèdent une évolution dans le temps.</p>
+<h2 id="attaque-attack">Attaque (Attack)</h2>
+<p>Début du son.</p>
+<p>Exemples :
+- Coup de marteau
+- Claquement de porte</p>
+<h2 id="maintien-sustain">Maintien (Sustain)</h2>
+<p>Partie stable du son.</p>
+<p>Exemples :
+- Note tenue au piano
+- Vent constant</p>
+<h2 id="relachement-release">Relâchement (Release)</h2>
+<p>Disparition progressive du son.</p>
+<p>Exemples :
+- Réverbération d'une salle
+- Son qui s'éloigne</p>
+<h2 id="pourquoi-est-ce-important">Pourquoi est-ce important ?</h2>
+<p>L'enveloppe permet de :</p>
+<ul>
+<li>Identifier un son</li>
+<li>Comprendre son comportement</li>
+<li>Modifier un son lors du montage</li>
+</ul>
+<h2 id="vocabulaire-de-base-du-son">Vocabulaire de base du son</h2>
+<h3 id="hauteur-pitch">Hauteur (pitch)</h3>
+<h5 id="grave-aigu">Grave / Aigu</h5>
+<ul>
+<li>
+<p><strong>Grave</strong> : son bas, profond (ex : tonnerre, grosse caisse)</p>
+</li>
+<li>
+<p><strong>Aigu</strong> : son élevé, perçant (ex : sifflet, oiseau)</p>
+</li>
+</ul>
+<p>👉 Plus la fréquence est basse → plus le son est grave</p>
+<p>👉 Plus la fréquence est haute → plus le son est aigu</p>
+<h3 id="intensite">Intensité</h3>
+<h5 id="faible-fort">Faible / Fort</h5>
+<ul>
+<li><strong>Faible</strong> : son doux, peu puissant</li>
+<li><strong>Fort</strong> : son puissant, intense</li>
+</ul>
+<p>👉 Cela correspond au volume sonore (amplitude)</p>
+<h3 id="dynamique">Dynamique</h3>
+<h5 id="la-dynamique-est-la-variation-de-volume-dans-le-temps">La dynamique est la variation de volume dans le temps.</h5>
+<ul>
+<li>Faible dynamique : son constant (ex : ventilateur)</li>
+<li>Grande dynamique : variations importantes (ex : musique de film)</li>
+</ul>
+<h3 id="duree">Durée</h3>
+<h5 id="court-long">Court / Long</h5>
+<ul>
+<li>Court : son bref (ex : clic, claquement)</li>
+<li>Long : son prolongé (ex : drone, vent)</li>
+</ul>
+<h3 id="distance-percue">Distance perçue</h3>
+<h5 id="proche-lointain">Proche / Lointain</h5>
+<ul>
+<li>Proche : son clair, direct, présent</li>
+<li>Lointain : son filtré, plus diffus, souvent avec réverbération</li>
+</ul>
+<p>👉 Effet lié au volume + réverbération + fréquences</p>
+<h3 id="origine-du-son">Origine du son</h3>
+<h5 id="naturel-artificiel">Naturel / Artificiel</h5>
+<ul>
+<li><strong>Naturel</strong> : issu du monde réel (vent, voix, eau)</li>
+<li><strong>Artificiel</strong> : synthétique ou modifié (FX, synthèse, traitement audio)</li>
+</ul>
+<h3 id="nature-du-signal">Nature du signal</h3>
+<h5 id="bruite-tonal">Bruité / Tonal</h5>
+<ul>
+<li><strong>Bruité</strong> : son complexe sans hauteur précise (vent, foule)</li>
+<li><strong>Tonal</strong> : son avec une note identifiable (piano, sifflement)</li>
+</ul>
+<h2 id="morphologie-temporelle-du-son">Morphologie temporelle du son</h2>
+<h3 id="attaque">Attaque</h3>
+<ul>
+<li><strong>Franche</strong> : début instantané (claquement, coup)</li>
+<li><strong>Progressive</strong> : montée graduelle (violon, souffle)</li>
+</ul>
+<h3 id="chute-extinction">Chute / extinction</h3>
+<ul>
+<li><strong>Franche</strong> : arrêt brusque</li>
+<li><strong>Progressive</strong> : disparition graduelle (réverbération, écho)</li>
+</ul>
+<h3 id="continuite">Continuité</h3>
+<ul>
+<li><strong>Continu</strong> : son stable sans interruption (vent, drone)</li>
+<li><strong>Discontinu</strong> : sons séparés (battements, clics)</li>
+</ul>
+<h3 id="evolution-du-son">Évolution du son</h3>
+<ul>
+<li><strong>Constant</strong> : même intensité dans le temps</li>
+<li><strong>Fluctuant</strong> : variations irrégulières</li>
+</ul>
+<h3 id="mouvement">Mouvement</h3>
+<ul>
+<li><strong>Ascendant</strong> : le son monte (pitch ou intensité)</li>
+<li><strong>Descendant</strong> : le son descend</li>
+<li><strong>Crescendo</strong> / Decrescendo</li>
+<li><strong>Crescendo</strong> : augmentation progressive du volume</li>
+<li><strong>Decrescendo</strong> : diminution progressive du volume</li>
+</ul>
+<h2 id="timbre-et-caractere-sonore">Timbre et caractère sonore</h2>
+<p>Le timbre est ce qui permet de reconnaître un son même s’il a la même note ou le même volume qu’un autre.</p>
+<h3 id="qualites-du-timbre">Qualités du timbre</h3>
+<h5 id="sec-resonant">Sec / Résonant</h5>
+<ul>
+<li><strong>Sec</strong> : sans réverbération (très direct)</li>
+<li><strong>Résonant</strong> : prolongé par l’espace (écho, salle)</li>
+</ul>
+<h5 id="mat-brillant">Mat / Brillant</h5>
+<ul>
+<li><strong>Mat</strong> : son doux, sans éclat</li>
+<li><strong>Brillant</strong> : son riche en hautes fréquences</li>
+</ul>
+<h5 id="lisse-rugueux">Lisse / Rugueux</h5>
+<ul>
+<li><strong>Lisse</strong> : son doux, uniforme</li>
+<li><strong>Rugueux</strong> : texture irrégulière, granuleuse</li>
+</ul>
+<h5 id="riche">Riche</h5>
+<ul>
+<li>Beaucoup de fréquences simultanées</li>
+<li>Son plein et complexe</li>
+</ul>
+<h5 id="nasal">Nasal</h5>
+<ul>
+<li>Concentration dans les médiums</li>
+<li>Son “fermé” ou “filtré”</li>
+</ul>
+<h5 id="chaud">Chaud</h5>
+<ul>
+<li>Dominance des basses et médiums</li>
+<li>Son agréable, rond</li>
+</ul>
+<h5 id="rond">Rond</h5>
+<ul>
+<li>Équilibré, sans agressivité</li>
+<li>Doux à l’écoute</li>
+</ul>
+<h5 id="metallique">Métallique</h5>
+<ul>
+<li>Résonances aiguës</li>
+<li>Son froid et dur</li>
+</ul>
+<h5 id="strident">Strident</h5>
+<ul>
+<li>Très aigu et agressif</li>
+<li>Peut être désagréable ou perçant</li>
+</ul>
+<h2 id="projet-a-banque-de-sons-et-reve-sonore">Projet A – Banque de sons et rêve sonore</h2>
+<h2 id="objectif-general">Objectif général</h2>
+<p>Créer une banque de sons originale qui servira à une création sonore plus complexe durant la session.</p>
+<h2 id="partie-1-banque-de-sons">Partie 1 – Banque de sons</h2>
+<p>Vous devrez enregistrer différents sons intéressants :</p>
+<ul>
+<li>Portes</li>
+<li>Pas</li>
+<li>Vent</li>
+<li>Eau</li>
+<li>Objets</li>
+<li>Ambiances</li>
+<li>Machines</li>
+<li>Voix</li>
+</ul>
+<h2 id="partie-2-recit-du-reve">Partie 2 – Récit du rêve</h2>
+<p>À partir du texte du TP2 :</p>
+<ul>
+<li>Enregistrer votre narration</li>
+<li>Utiliser une voix claire et expressive</li>
+<li>Contrôler le bruit ambiant</li>
+</ul>
+<p>Cette narration servira au projet intégrateur.</p>
+<h2 id="introduction-a-reaper">Introduction à Reaper</h2>
+<p><img alt="" data-zoom-image="data-zoom-image" src="https://www.reaper.fm/v7img/ss_persp_v7.jpg"></p>
+<h2 id="quest-ce-que-reaper">Qu'est-ce que Reaper ?</h2>
+<p><strong>Reaper</strong> est une station audionumérique (DAW) permettant de :</p>
+<ul>
+<li>Enregistrer</li>
+<li>Monter</li>
+<li>Mixer</li>
+<li>Produire du contenu sonore</li>
+</ul>
+<h2 id="fonctions-importantes">Fonctions importantes</h2>
+<ul>
+<li>Importer des fichiers</li>
+<li>Déplacer des éléments</li>
+<li>Couper des sections</li>
+<li>Ajuster le volume</li>
+<li>Utiliser la table de mixage</li>
+</ul>
+<h2 id="conseils-pendant-les-capsules-video">Conseils pendant les capsules vidéo</h2>
+<ul>
+<li>Prendre des notes</li>
+<li>Tester les fonctions en même temps</li>
+<li>Poser des questions</li>
+<li>Avancer à son rythme</li>
+</ul>
+<p>👉 Le but est de comprendre, pas seulement de terminer les vidéos.</p>
+<h2 id="preparation-du-prochain-cours">Préparation du prochain cours</h2>
+<ul>
+<li>Compléter les capsules jusqu’à « 12A – Table de mixage »</li>
+<li>Réfléchir aux sons pour le Projet A</li>
+<li>Organiser ses fichiers</li>
+</ul>
+<h2 id="a-retenir">À retenir</h2>
+<ul>
+<li>L’écoute est la base du travail sonore</li>
+<li>Chaque son raconte quelque chose</li>
+<li>Une banque de sons est une ressource essentielle</li>
+</ul></div>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Techniques d’intégration multimédia | Collège Montmorency
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.indexes", "navigation.sections", "content.code.copy"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="_/mathjax.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/fireworks-js@2.x/dist/index.umd.js"></script>
+      
+        <script src="https://unpkg.com/lightgallery@2.8.2/lightgallery.min.js"></script>
+      
+        <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+      
+        <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
+      
+        <script src="_/extra.js"></script>
+      
+        <script src="_/image-zoom.js"></script>
+      
+        <script src="_/gallery.js"></script>
+      
+        <script src="_/tooltip.js"></script>
+      
+        <script src="_/color-preview.js"></script>
+      
+    
+  </body>
+</html>

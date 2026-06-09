@@ -1,0 +1,130 @@
+site_name: Audio 1
+site_url: https://prof-inter-web.github.io/audio-1/
+copyright: Techniques d’intégration multimédia | Collège Montmorency
+
+theme:
+  name: material
+  logo: _/logo-tim2.svg   # chemin relatif depuis docs/
+  palette:
+      - scheme: default
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/weather-night
+          name: Switch to dark mode
+      - scheme: slate
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to light mode
+  features:
+      - navigation.indexes  # Permet au titre de la section d'être un lien cliquable
+      - navigation.sections # Crée une séparation visuelle plus nette (lifted)
+      - content.code.copy
+  language: fr  # Change toutes les étiquettes par défaut en français
+
+  markdown_extensions:
+    - abbr
+    - attr_list
+    - md_in_html
+    - admonition
+    - footnotes
+    - tables
+    - toc:
+        permalink: true
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.tabbed:
+        alternate_style: true
+        slugify: !!python/object/apply:pymdownx.slugs.slugify
+          kwds:
+            case: lower
+    - pymdownx.tasklist:
+        custom_checkbox: true
+        clickable_checkbox: true
+    - mdx_truly_sane_lists
+    - pymdownx.arithmatex:
+        generic: true
+    
+
+extra:
+    generator: false
+    analytics:
+      provider: google
+      property: G-BFKT7FS4P2
+    include:
+      - robots.txt
+
+extra_css:
+    - https://unpkg.com/tippy.js@6/animations/shift-away.css
+    - https://unpkg.com/lightgallery@2.8.2/css/lightgallery.css
+    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/tokyo-night-dark.min.css
+    - _/extra.css
+    
+
+extra_javascript:
+    - _/mathjax.js
+    - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    - https://unpkg.com/fireworks-js@2.x/dist/index.umd.js
+    - https://unpkg.com/lightgallery@2.8.2/lightgallery.min.js
+    - https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js
+    - https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js
+    - _/extra.js
+    - _/image-zoom.js
+    - _/gallery.js
+    - _/tooltip.js
+    - _/color-preview.js
+    - https://unpkg.com/wavesurfer.js
+    - js/audio.js
+
+plugins:
+    - material/offline
+    - material/tags
+    - material/typeset
+    - mkdocs-video:
+        is_video: true
+        video_autoplay: true
+        video_loop: true
+        video_muted: true
+    - mkdocs-audio
+    - render-stopper:
+        tag: "[STOP]"
+
+nav:
+  - Audio 1:
+        - Intro: index.md
+        - Cours 1: cours01.md
+        - Cours 2: cours02.md
+        - Cours 3: cours03.md
+        - Cours 4: cours04.md
+        - Cours 5: cours05.md
+        - Cours 6: cours06.md
+        - Cours 7: cours07.md
+        - Cours 8: cours08.md
+        - Cours 9: cours09.md
+        - Cours 10: cours10.md
+        - Cours 11: cours11.md
+        - Cours 12: cours12.md
+        - Cours 13: cours13.md
+        - Cours 14: cours14.md
+        - Cours 15: cours15.md
+docs_dir: docs  
