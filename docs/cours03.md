@@ -102,7 +102,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 
 ## Les niveaux audio
 
-![](https://www.tutoriels-mao.com/images/dbFS.gif){data-zoom-image}
+![](https://www.tutoriels-mao.com/images/dbFS.gif){data-zoom-image}<small>Source: tutoriels-mao.com</small>
 
 ### Niveau optimal
 
@@ -126,7 +126,7 @@ Plus le rapport signal/bruit est élevé, meilleure est la qualité de l'enregis
 
 ## Risques auditifs
 
-![](https://www.sciencesetavenir.fr/assets/referentiel/file/14943121.jpg){data-zoom-image}
+![](https://www.sciencesetavenir.fr/assets/referentiel/file/14943121.jpg){data-zoom-image}<small>Source: sciencesetavenir.fr</small>
 
 L'audition est un outil essentiel en conception sonore.
 

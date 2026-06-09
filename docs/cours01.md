@@ -1,6 +1,6 @@
 # Introduction à la conception sonore
 
-![](https://blog.medel.com/wp-content/uploads/2023/03/sound-wave.jpg.webp){data-zoom-image}
+![](https://blog.medel.com/wp-content/uploads/2023/03/sound-wave.jpg.webp){data-zoom-image}<small>Source: medel.com</small>
 
 
 
@@ -45,7 +45,7 @@ Dans ce cours, vous allez apprendre à :
 ## Outils utilisés
 Vous utiliserez :
 
-![](https://www.reaper.fm/v7img/ss_persp_v7.jpg){data-zoom-image}
+![](https://www.reaper.fm/v7img/ss_persp_v7.jpg){data-zoom-image}<small>Source: reaper.fm</small>
 
 - **Reaper** (logiciel principal de montage audio)
 - Teams (remise de travaux)

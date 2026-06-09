@@ -1,5 +1,7 @@
 # Audio 1
 
+![](https://img.magnific.com/vecteurs-libre/egaliseur-audio-dynamique-pour-composition-musicale_1017-58529.jpg?semt=ais_hybrid&w=740&q=80){data-zoom-image}<small>Source: magnific.com</small>
+
 ## Descriptif du cours
 
 Ce premier cours de conception audio permet à l’élève d’explorer l’enregistrement, le montage et le traitement audio.  
@@ -27,11 +29,11 @@ Réaliser un montage sonore multipiste stéréophonique.
 
 ## Enseignant 🌱
 
-<div class="grid grid-auto" markdown>
-  ![](../_/profs/steph_prof.jpg)
 
-  **Stéphane Chartrand**<br>
-  _Enseignant en Techniques d'intégration multimédia_<br>
-  :material-microsoft-teams: [stephane.chartrand@cmontmorency.qc.ca](mailto:stephane.chartrand@cmontmorency.qc.ca)<br><br>
-  [Plan de cours :material-download:](./assets/documents/plan-cours_Web_4_H2026_V2.1.pdf){ .md-button .md-button--primary }
-</div>
+| Cours Audio 1| |
+| :--- | :--- |
+| ![](./assets/profs/steph_prof.jpg) | **Stéphane Chartrand** <br> _Enseignant en Techniques d'intégration multimédia_ <br> 📧 [stephane.chartrand@cmontmorency.qc.ca](mailto:stephane.chartrand@cmontmorency.qc.ca) <br><br> [Télécharger le Plan de cours](assets/documents/plan-cours_Web_4_H2026_V2.1.pdf){ .md-button .md-button--primary } |
+
+
+
+

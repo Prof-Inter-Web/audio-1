@@ -1,6 +1,6 @@
 # Analyse sonore et introduction au montage audio
 
-![](https://miro.medium.com/v2/resize:fit:1400/0*z-MRZjGa2R62e1DA){data-zoom-image}
+![](https://miro.medium.com/v2/resize:fit:1400/0*z-MRZjGa2R62e1DA){data-zoom-image}<small>Source: medium.com</small>
 
 ## Objectifs du cours
 
@@ -281,7 +281,7 @@ Cette narration servira au projet intégrateur.
 
 ## Introduction à Reaper
 
-![](https://www.reaper.fm/v7img/ss_persp_v7.jpg){data-zoom-image}
+![](https://www.reaper.fm/v7img/ss_persp_v7.jpg){data-zoom-image}<small>Source: reaper.fm</small>
 
 ## Qu'est-ce que Reaper ?
 

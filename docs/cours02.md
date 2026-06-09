@@ -21,7 +21,7 @@ Elle est mesurée en **Hertz (Hz)**.
 * 1000 Hz = son médium
 * 10000 Hz = son aigu
 
-![](./assets/img/frequences-audibles-homme.png){data-zoom-image}
+![](./assets/img/frequences-audibles-homme.png){data-zoom-image}<small>Source: synthfood.fr</small>
 
 **À retenir**
 
@@ -42,7 +42,7 @@ Elle est mesurée en **décibels (dB)**.
 * Conversation : environ 60 dB
 * Concert rock : plus de 100 dB
 
-![](./assets/img/Amplitude_sons_calme_et_fort.png){data-zoom-image}
+![](./assets/img/Amplitude_sons_calme_et_fort.png){data-zoom-image}<small>Source: letstalkscience.ca</small>
 
 **À retenir**
 
@@ -61,9 +61,9 @@ La durée représente le temps pendant lequel un son est entendu.
 * Claquement de porte : courte durée
 * Sirène : longue durée
 
-![](./assets/img/duree.png){data-zoom-image}
+![](./assets/img/duree.png){data-zoom-image}<small>Source: googleusercontent.com</small>
 
-![](./assets/img/duree2.jpg){data-zoom-image}
+![](./assets/img/duree2.jpg){data-zoom-image}<small>Source: syos.com</small>
 
 ### D. Le timbre
 
@@ -75,7 +75,7 @@ Une guitare et un piano peuvent jouer la même note, mais leur timbre est diffé
 
 Le timbre est souvent appelé la **couleur sonore**.
 
-![](./assets/img/timbre.jpg){data-zoom-image}
+![](./assets/img/timbre.jpg){data-zoom-image}<small>Source: assistancescolaire.com</small>
 
 
 ## 2. La perception sonore
@@ -236,7 +236,7 @@ La fréquence d'échantillonnage indique combien de fois par seconde le son est 
 * 48 kHz
 * 96 kHz
 
-![](./assets/img/frequence-echantillons.png){data-zoom-image}
+![](./assets/img/frequence-echantillons.png){data-zoom-image}<small>Source: deveniringeson.com</small>
 
 **À retenir**
 
@@ -254,7 +254,7 @@ Elle détermine la précision avec laquelle l'intensité sonore est enregistrée
 * 24 bits
 * 32 bits float
 
-![](./assets/img/echantillons.webp){data-zoom-image}
+![](./assets/img/echantillons.webp){data-zoom-image}<small>Source: researchgate.net</small>
 
 **À retenir**
 
@@ -264,7 +264,7 @@ Elle détermine la précision avec laquelle l'intensité sonore est enregistrée
 
 ## 7. Le niveau d'enregistrement
 
-![](./assets/img/niveau-rec.jpg){data-zoom-image}
+![](./assets/img/niveau-rec.jpg){data-zoom-image}<small>Source: freepik.com</small>
 
 Le niveau d'enregistrement doit être suffisamment élevé sans provoquer de distorsion.
 
@@ -309,7 +309,7 @@ Le microphone transforme les vibrations sonores en signal électrique.
 
 ##### Dynamique
 
-![](./assets/img/microphones-dynamiques.png){data-zoom-image}
+![](./assets/img/microphones-dynamiques.png){data-zoom-image}<small>Source: projethomestudio.fr</small>
 
 Utilisé pour :
 
@@ -326,7 +326,7 @@ Utilisé pour :
 
 ##### Condensateur
 
-![](./assets/img/microphones-dynamiques.png){data-zoom-image}
+![](./assets/img/microphone-condensateur-.png){data-zoom-image}<small>Source: projethomestudio.fr</small>
 
 Utilisé pour :
 
