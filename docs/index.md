@@ -1,17 +1,37 @@
-# Welcome to MkDocs
+# Audio 1
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Descriptif du cours
 
-## Commands
+Ce premier cours de conception audio permet à l’élève d’explorer l’enregistrement, le montage et le traitement audio.  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+L’élève expérimente toutes les étapes de la conception tout en s’appropriant les outils nécessaires à l’enregistrement et à la production. Il utilise les différentes fonctions des logiciels de montage audio afin de traiter la bande-son et appliquer divers effets aux séquences sonores.   
 
-## Project layout
+| Spécifications        | Valeur  |
+| --------------------- | ------- |
+| Code                  | 582-131 |
+| Pondération           | 2-2-2   |
+| Unités                | 2       |
+| Heures d’enseignement | 60      |
+| Session               | 1       |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Objectif intégrateur
+
+Réaliser un montage sonore multipiste stéréophonique.
+
+## Attitudes professionnelles
+
+* Esprit d’équipe
+* Autonomie
+* Créativité
+* Débrouillardise
+
+## Enseignant 🌱
+
+<div class="grid grid-auto" markdown>
+  ![](../_/profs/steph_prof.jpg)
+
+  **Stéphane Chartrand**<br>
+  _Enseignant en Techniques d'intégration multimédia_<br>
+  :material-microsoft-teams: [stephane.chartrand@cmontmorency.qc.ca](mailto:stephane.chartrand@cmontmorency.qc.ca)<br><br>
+  [Plan de cours :material-download:](./assets/documents/plan-cours_Web_4_H2026_V2.1.pdf){ .md-button .md-button--primary }
+</div>
