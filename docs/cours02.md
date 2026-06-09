@@ -139,32 +139,12 @@ Le bruit de fond est l'ensemble des sons continus qui composent l'environnement.
 
 Comme en photographie ou au cinéma, le son possède différents plans.
 
-##### Premier plan
+| <span style="color:#b58664;">Premier plan</span>     | <span style="color:#b58664;">Plan intermédiaire</span>    |  <span style="color:#b58664;">Arrière-plan</span>    | 
+| ----------- | ----------- | ----------- |
+| Le son principal.    | Les sons secondaires.   |  Les sons éloignés.   | 
+| <b>Exemple</b>    | <b>Exemple</b>   |  <b>Exemple</b>   | 
+| Une personne qui parle devant nous. | Des gens qui discutent derrière le locuteur. | La circulation au loin. |
 
-Le son principal.
-
-**Exemple**
-
-Une personne qui parle devant nous.
-
-
-
-##### Plan intermédiaire
-
-Les sons secondaires.
-
-**Exemple**
-
-Des gens qui discutent derrière le locuteur.
-
-
-##### Arrière-plan
-
-Les sons éloignés.
-
-**Exemple**
-
-La circulation au loin.
 
 
 
@@ -178,38 +158,16 @@ L'objectif est de découvrir des sons qui passent habituellement inaperçus.
 
 Prendre des notes sur :
 
-##### Fréquences
 
-Le son est-il :
+| Fréquences    | Intensité   |  Position   |  Distance |   
+| ----------- | ----------- | ----------- | ----------- |
+| Grave  | Faible   |   Devant  |   Très proche |
+| Médium   | Moyen   |  Derrière    |   Moyenne distance    |
+| Aigu   | Fort  |  Gauche  |   Très éloigné    |
+|       |       |   Droite  |
+|       |       |   Haut  |
+|       |       |   Bas  |
 
-* Grave
-* Médium
-* Aigu
-
-##### Intensité
-
-Le son est-il :
-
-* Faible
-* Moyen
-* Fort
-
-##### Position
-
-Le son provient-il :
-
-* Devant
-* Derrière
-* Gauche
-* Droite
-* Haut
-* Bas
-
-##### Distance
-
-* Très proche
-* Moyenne distance
-* Très éloigné
 
 ##### Texture sonore
 

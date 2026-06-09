@@ -1,6 +1,6 @@
 # L'enregistrement audio portatif
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKWuVwsjP4knzmocNWCU5SXMTEE7QzdpVSw&s){data-zoom-image}
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKWuVwsjP4knzmocNWCU5SXMTEE7QzdpVSw&s){data-zoom-image}<small>Source: encrypted-tbn0.gstatic.com</small>
 
 ## Objectifs
 
@@ -17,7 +17,7 @@
 
 ## L'enregistreur Sound Devices
 
-![](https://digitalomnium.com/wp-content/uploads/2019/07/IMG_3148-e1564346414557.png){data-zoom-image}
+![](https://digitalomnium.com/wp-content/uploads/2019/07/IMG_3148-e1564346414557.png){data-zoom-image}<small>Source: digitalomnium.com</small>
 
 Le Sound Devices est un enregistreur audio professionnel utilisé pour capturer des sons sur le terrain ou en studio.
 
@@ -48,7 +48,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 
 ### Microphone dynamique
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Shure_SM57_--_2023_--_0031-5.jpg){data-zoom-image}
+![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Shure_SM57_--_2023_--_0031-5.jpg){data-zoom-image}<small>Source: wikimedia.org</small>
 
 #### Caractéristiques
 
@@ -66,7 +66,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 
 ### Microphone à condensateur
 
-![](https://img.vistek.net/prodimg/large/423957.jpg){data-zoom-image}
+![](https://img.vistek.net/prodimg/large/423957.jpg){data-zoom-image}<small>Source: vistek.net</small>
 
 #### Caractéristiques
 
@@ -97,7 +97,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 
 ## Les diagrammes polaires des autres microphones
 
-![](https://cdn.prod.website-files.com/655e0fa544c67c1ee5ce01c7/655e0fa544c67c1ee5ce11aa_an-artists-guide-to-microphone-polar-patterns-chart.jpg){data-zoom-image}
+![](https://cdn.prod.website-files.com/655e0fa544c67c1ee5ce01c7/655e0fa544c67c1ee5ce11aa_an-artists-guide-to-microphone-polar-patterns-chart.jpg){data-zoom-image}<small>Source: prod.website-files.com</small>
 
 
 ## Les niveaux audio

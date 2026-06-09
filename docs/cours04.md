@@ -107,34 +107,18 @@ Cette activité prépare à comprendre l'enveloppe sonore.
 
 ## L'enveloppe d'un son
 
-Tous les sons possèdent une évolution dans le temps.
+### Enveloppe ADSR 
 
-## Attaque (Attack)
+| <span style="color:#b58664;">Attaque (Attack)</span> | <span style="color:#b58664;">Decay (Désintégration)</span>| <span style="color:#b58664;">Maintien (Sustain)</span> | <span style="color:#b58664;">Relâchement (Release)</span> |
+|------------------|------------------------|----------------------|-------------------------|
+| Début du son. | Baisse du niveau après l’attaque jusqu’au sustain. | Partie stable du son. | Disparition progressive du son. |
 
-Début du son.
+### Exemples
 
-Exemples :
-- Coup de marteau
-- Claquement de porte
-
-
-## Maintien (Sustain)
-
-Partie stable du son.
-
-Exemples :
-- Note tenue au piano
-- Vent constant
-
-
-
-## Relâchement (Release)
-
-Disparition progressive du son.
-
-Exemples :
-- Réverbération d'une salle
-- Son qui s'éloigne
+| Attaque (Attack) | Decay (Désintégration) | Maintien (Sustain) | Relâchement (Release) |
+|------------------|------------------------|----------------------|-------------------------|
+| - Coup de marteau | - Le son d’un piano juste après la frappe qui diminue | - Note tenue au piano | - Réverbération d’une salle |
+| - Claquement de porte | - Guitare pincée qui perd rapidement de l’intensité | - Vent constant | - Son qui s’éloigne |
 
 
 
@@ -147,101 +131,50 @@ L'enveloppe permet de :
 - Modifier un son lors du montage
 
 ## Vocabulaire de base du son
-### Hauteur (pitch)
-##### Grave / Aigu
 
-- **Grave** : son bas, profond (ex : tonnerre, grosse caisse)
+### <span style="color:#b58664;">Paramètres du son</span>
 
-- **Aigu** : son élevé, perçant (ex : sifflet, oiseau)
+| Paramètre | Types | Description | Exemples / Explications |
+|------------|------|-------------|--------------------------|
+| **Hauteur (pitch)** | Grave / Aigu | Détermine si un son est bas ou élevé | **Grave** : son bas, profond (tonnerre, grosse caisse)<br>**Aigu** : son élevé, perçant (sifflet, oiseau)<br>👉 Plus la fréquence est basse → plus le son est grave<br>👉 Plus la fréquence est haute → plus le son est aigu |
+| **Intensité** | Faible / Fort | Correspond au volume sonore | **Faible** : son doux, peu puissant<br>**Fort** : son puissant, intense<br>👉 Lié à l’amplitude |
+| **Dynamique** | — | Variation du volume dans le temps | Faible dynamique : son constant (ventilateur)<br>Grande dynamique : variations importantes (musique de film) |
+| **Durée** | Court / Long | Temps pendant lequel le son est entendu | Court : son bref (clic, claquement)<br>Long : son prolongé (drone, vent) |
+| **Distance perçue** | Proche / Lointain | Impression de proximité du son | Proche : son clair, direct<br>Lointain : son filtré, diffus, avec réverbération<br>👉 Effet lié au volume + réverbération + fréquences |
+| **Origine du son** | Naturel / Artificiel | Source du son | Naturel : vent, voix, eau<br>Artificiel : synthèse, FX, traitement audio |
+| **Nature du signal** | Bruité / Tonal | Type de structure sonore | Bruité : sans hauteur précise (vent, foule)<br>Tonal : note identifiable (piano, sifflement) |
 
-👉 Plus la fréquence est basse → plus le son est grave
 
-👉 Plus la fréquence est haute → plus le son est aigu
+### <span style="color:#b58664;">Morphologie temporelle du son</span>
 
-### Intensité
-##### Faible / Fort
-- **Faible** : son doux, peu puissant
-- **Fort** : son puissant, intense
-
-👉 Cela correspond au volume sonore (amplitude)
-
-### Dynamique
-
-##### La dynamique est la variation de volume dans le temps.
-
-- Faible dynamique : son constant (ex : ventilateur)
-- Grande dynamique : variations importantes (ex : musique de film)
-### Durée
-##### Court / Long
-- Court : son bref (ex : clic, claquement)
-- Long : son prolongé (ex : drone, vent)
-### Distance perçue
-##### Proche / Lointain
-- Proche : son clair, direct, présent
-- Lointain : son filtré, plus diffus, souvent avec réverbération
-
-👉 Effet lié au volume + réverbération + fréquences
-
-### Origine du son
-##### Naturel / Artificiel
-- **Naturel** : issu du monde réel (vent, voix, eau)
-- **Artificiel** : synthétique ou modifié (FX, synthèse, traitement audio)
-### Nature du signal
-##### Bruité / Tonal
-- **Bruité** : son complexe sans hauteur précise (vent, foule)
-- **Tonal** : son avec une note identifiable (piano, sifflement)
-## Morphologie temporelle du son
-### Attaque
-- **Franche** : début instantané (claquement, coup)
-- **Progressive** : montée graduelle (violon, souffle)
-### Chute / extinction
-- **Franche** : arrêt brusque
-- **Progressive** : disparition graduelle (réverbération, écho)
-### Continuité
-- **Continu** : son stable sans interruption (vent, drone)
-- **Discontinu** : sons séparés (battements, clics)
-### Évolution du son
-- **Constant** : même intensité dans le temps
-- **Fluctuant** : variations irrégulières
-### Mouvement
-- **Ascendant** : le son monte (pitch ou intensité)
-- **Descendant** : le son descend
-- **Crescendo** / Decrescendo
-- **Crescendo** : augmentation progressive du volume
-- **Decrescendo** : diminution progressive du volume
+| Paramètre | Types | Description | Exemples / Explications |
+|------------|------|-------------|--------------------------|
+| **Attaque** | Franche / Progressive | Manière dont le son commence | **Franche** : début instantané (claquement, coup)<br>**Progressive** : montée graduelle (violon, souffle) |
+| **Chute / extinction** | Franche / Progressive | Manière dont le son se termine | **Franche** : arrêt brusque<br>**Progressive** : disparition graduelle (réverbération, écho) |
+| **Continuité** | Continu / Discontinu | Organisation du son dans le temps | **Continu** : son stable sans interruption (vent, drone)<br>**Discontinu** : sons séparés (battements, clics) |
+| **Évolution du son** | Constant / Fluctuant | Variation globale du son dans le temps | **Constant** : même intensité dans le temps<br>**Fluctuant** : variations irrégulières |
+| **Mouvement** | Ascendant / Descendant | Direction de variation du son | **Ascendant** : le son monte (pitch ou intensité)<br>**Descendant** : le son descend |
+| **Crescendo / Decrescendo** | Crescendo / Decrescendo | Variation progressive du volume | **Crescendo** : augmentation progressive du volume<br>**Decrescendo** : diminution progressive du volume |
 
 ## Timbre et caractère sonore
 
 Le timbre est ce qui permet de reconnaître un son même s’il a la même note ou le même volume qu’un autre.
 
-### Qualités du timbre
-##### Sec / Résonant
-- **Sec** : sans réverbération (très direct)
-- **Résonant** : prolongé par l’espace (écho, salle)
-##### Mat / Brillant
-- **Mat** : son doux, sans éclat
-- **Brillant** : son riche en hautes fréquences
-##### Lisse / Rugueux
-- **Lisse** : son doux, uniforme
-- **Rugueux** : texture irrégulière, granuleuse
-##### Riche
-- Beaucoup de fréquences simultanées
-- Son plein et complexe
-##### Nasal
-- Concentration dans les médiums
-- Son “fermé” ou “filtré”
-##### Chaud
-- Dominance des basses et médiums
-- Son agréable, rond
-##### Rond
-- Équilibré, sans agressivité
-- Doux à l’écoute
-##### Métallique
-- Résonances aiguës
-- Son froid et dur
-##### Strident
-- Très aigu et agressif
-- Peut être désagréable ou perçant
+### <span style="color:#b58664;">Qualités du timbre</span>
+
+| Qualité | Description | Exemples / Explications |
+|----------|-------------|--------------------------|
+| **Sec / Résonant** | Sensation d’espace autour du son | **Sec** : sans réverbération, très direct<br>**Résonant** : prolongé par l’espace (écho, salle, reverb) |
+| **Mat / Brillant** | Présence des hautes fréquences | **Mat** : son doux, sans éclat<br>**Brillant** : son riche en hautes fréquences, plus lumineux |
+| **Lisse / Rugueux** | Texture sonore | **Lisse** : son doux, uniforme<br>**Rugueux** : texture irrégulière, granuleuse |
+| **Riche** | Complexité harmonique | Beaucoup de fréquences simultanées<br>Son plein et complexe |
+| **Nasal** | Concentration des médiums | Son “fermé” ou filtré, coloration médium |
+| **Chaud** | Équilibre tonal orienté basses | Dominance des basses et médiums<br>Son agréable, rond |
+| **Rond** | Équilibre général du son | Son doux, sans agressivité, bien équilibré |
+| **Métallique** | Présence de résonances aiguës | Son froid, dur, avec harmoniques brillantes |
+| **Strident** | Excès d’aigus | Très aigu, agressif, parfois désagréable ou perçant |
+
+
 
 
 
