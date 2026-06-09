@@ -1,6 +1,6 @@
-# Analyse sonore et introduction au montage audio
+# Analyse sonore / introduction au montage audio
 
-![](https://miro.medium.com/v2/resize:fit:1400/0*z-MRZjGa2R62e1DA){data-zoom-image}<small>Source: medium.com</small>
+![](https://img.magnific.com/vecteurs-libre/egaliseur-audio-dynamique-pour-composition-musicale_1017-58529.jpg?semt=ais_hybrid&w=740&q=80){data-zoom-image}<small>Source: medium.com</small>
 
 ## Objectifs du cours
 
