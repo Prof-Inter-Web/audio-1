@@ -47,7 +47,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
   ![](https://admin.lalanguefrancaise.com/wp-content/uploads/dictionnaire/monophonique.png)
 
   <small>Comment fonctionne le  Sound Device</small><br>
-  **[Enregistrement monophonique](./exercices/sound-device.md){.stretched-link .back}**
+  **[Enregistrement monophonique](./exercices/monophonique.md){.stretched-link .back}**
 
 </div>
 
@@ -55,7 +55,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
   ![](https://admin.lalanguefrancaise.com/wp-content/uploads/dictionnaire/stereophonique.png)
 
   <small>Comment fonctionne le  Sound Device</small><br>
-  **[Enregistrement stéréophonique](./exercices/sound-device.md){.stretched-link .back}**
+  **[Enregistrement stéréophonique](./exercices/stereophonique.md){.stretched-link .back}**
 
 </div>
 
@@ -63,7 +63,7 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
   ![](https://cdn.sounddevices.com/wp-content/uploads/2019/01/MixPre-3_REC.png)
 
   <small>Comment fonctionne le  Sound Device</small><br>
-  **[Transfert des fichiers](./exercices/sound-device.md){.stretched-link .back}**
+  **[Transfert des fichiers](./exercices/transfert.md){.stretched-link .back}**
 
 </div>
 
@@ -232,14 +232,6 @@ Pour chaque enregistrement, noter :
 - Signaler tout problème
 - Respecter les **dates de retour**
 
-
-<div class="grid grid-1-2" markdown>
-  ![](https://images.ctfassets.net/lzny33ho1g45/6ogRvRgrFFojC4fFrwBjjo/7cc98f9d238d49539191a196a0d2a9de/pdfgear-app-tips-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760)
-
-  <small>Rapport de prise de son</small><br>
-  **[Rapport de Prise de son (format pdf)](./assets/documents/rapport_prise_sons_582-131MO%20(1).pdf){.stretched-link .back}**
-
-</div>
 
 ## Exercice de prise de son sur le terrain
 
