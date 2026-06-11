@@ -57,22 +57,8 @@ Vous utiliserez :
 ## Règles importantes
 - La présence est essentielle
 - Pas de cellulaire pendant les activités
-- Pas d’ordinateur personnel sans autorisation
 - Casque obligatoire en activité audio
 - Participation active attendue
-
-
-
-## Premier projet – TP1
-### Consigne
-Décrire en **3 phrases** :
-- un rêve ou un cauchemar significatif
-
-### Objectif
-- Développer une narration simple
-- Commencer à penser en termes sonores et visuels
-- Introduire la création personnelle
-
 
 
 ## Activités en classe
@@ -87,6 +73,32 @@ Décrire en **3 phrases** :
 - Exploration des émotions sonores
 - Introduction à John Cage et à l’expérimentation sonore
 
+## Projet – A : Création d'une banque de sons
+
+### Consigne
+
+Constituez une petite banque de sons contenant entre **30 sons** différents et évocateurs.
+
+### Objectifs
+
+- Développer l'écoute active de son environnement.
+- Apprendre à identifier et classer différents types de sons.
+- Commencer à construire une bibliothèque sonore personnelle.
+- Découvrir les notions de qualité sonore, de timbre et d'ambiance.
+- Préparer du matériel réutilisable pour de futurs projets audio et vidéo.
+
+## Projet - B – Réduction de narration et montage audio
+
+### Consignes
+
+Il s'agit d'une réduction de narration où l'on vous entend raconter votre sujet. Le montage doit être fluide et naturel.
+
+### Objectifs 
+
+- Réaliser un montage audio clair, fluide et professionnel.
+- Développer ses compétences en sélection et en organisation du contenu sonore.
+- Appliquer les principes de base du montage de la parole.
+- Produire un fichier audio conforme aux normes de diffusion.
 
 
 ## Projet intégrateur (fin de session)
@@ -118,3 +130,41 @@ Création d’un projet sonore complet incluant :
 ## Message important
 Le son n’est pas seulement quelque chose qu’on entend :
 👉 c’est quelque chose qu’on **compose, transforme et raconte**
+
+
+## Exercices
+
+<div class="grid grid-1-2" markdown>
+  ![](https://blogimage.vantagecircle.com/content/images/2022/06/ice-breaker-jeux.png)
+
+  <small>Activité Brise-Glace</small><br>
+  **[Activité Brise-Glace](./exercices/brise-glace.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://images.ctfassets.net/dv1qnlptav0x/6yEblrmCTXQEIiLmT3GKKs/a1b582ee5e05e2aaf726350961b38dcf/0F_LundiFranco_VisuelSiteFranco.png)
+
+  <small>Le bingo sonore</small><br>
+  **[Le bingo sonore](./exercices/bingo.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://t4.ftcdn.net/jpg/03/61/63/45/360_F_361634596_cRB0olMjNEOttw0r7fXzM9kTOFcprvuK.jpg)
+
+  <small>J'aime / Je n'aime pas</small><br>
+  **[J'aime / Je n'aime pas](./exercices/aime-aime-pas.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://mmtfinland.wordpress.com/wp-content/uploads/2017/06/music-personality-1024x768.jpg)
+
+  <small>La personnalité sonore</small><br>
+  **[La personnalité sonore](./exercices/personnalite.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://immersiveexperience.fr/wp-content/uploads/2019/04/Reapprendre-Immersive-Experience.png)
+
+  <small>Le son raconte une histoire</small><br>
+  **[Le son raconte une histoire](./exercices/histoire.md){.stretched-link .back}**
+</div>

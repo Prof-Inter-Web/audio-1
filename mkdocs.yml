@@ -24,7 +24,7 @@ theme:
       - content.code.copy
   language: fr  # Change toutes les étiquettes par défaut en français
 
-  markdown_extensions:
+markdown_extensions:
     - abbr
     - attr_list
     - md_in_html

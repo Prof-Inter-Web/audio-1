@@ -43,6 +43,29 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 - Très utile en documentaire et en prise de son ambiante
 
 
+<div class="grid grid-1-2" markdown>
+  ![](https://admin.lalanguefrancaise.com/wp-content/uploads/dictionnaire/monophonique.png)
+
+  <small>Comment fonctionne le  Sound Device</small><br>
+  **[Enregistrement monophonique](./exercices/sound-device.md){.stretched-link .back}**
+
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://admin.lalanguefrancaise.com/wp-content/uploads/dictionnaire/stereophonique.png)
+
+  <small>Comment fonctionne le  Sound Device</small><br>
+  **[Enregistrement stéréophonique](./exercices/sound-device.md){.stretched-link .back}**
+
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://cdn.sounddevices.com/wp-content/uploads/2019/01/MixPre-3_REC.png)
+
+  <small>Comment fonctionne le  Sound Device</small><br>
+  **[Transfert des fichiers](./exercices/sound-device.md){.stretched-link .back}**
+
+</div>
 
 ## Les microphones
 
@@ -141,6 +164,8 @@ L'audition est un outil essentiel en conception sonore.
 
 ## Créer un studio maison
 
+![](https://blog.sonicbids.com/hs-fs/hub/245581/file-1107714605.jpg?width=1404&name=file-1107714605.jpg){data-zoom-image}<small>Source: sonicbids.com</small>
+
 Pour améliorer la qualité d'un enregistrement :
 
 - Choisir un endroit calme
@@ -180,8 +205,23 @@ Pour chaque enregistrement, noter :
 - Type de microphone utilisé
 - Description du son
 - Conditions particulières
+- etc...
 
+<div class="grid grid-1-2" markdown>
+  ![](https://www.computerworld.com/wp-content/uploads/2025/05/1656594-0-68082700-1748257438-excel-cheat-sheet-primary-2000px.jpg?quality=50&strip=all&w=1024)
 
+  <small>Rapport de prise de son</small><br>
+  **[Rapport de Prise de son (format excel)](./assets/documents/rapport_prise_sons_582-131MO%20(1).xlsx){.stretched-link .back}**
+
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://images.ctfassets.net/lzny33ho1g45/6ogRvRgrFFojC4fFrwBjjo/7cc98f9d238d49539191a196a0d2a9de/pdfgear-app-tips-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760)
+
+  <small>Rapport de prise de son</small><br>
+  **[Rapport de Prise de son (format pdf)](./assets/documents/rapport_prise_sons_582-131MO%20(1).pdf){.stretched-link .back}**
+
+</div>
 
 ## Emprunt du matériel
 
@@ -190,39 +230,34 @@ Pour chaque enregistrement, noter :
 - Vérifier le contenu du sac
 - Manipuler le matériel avec soin
 - Signaler tout problème
-- Respecter les dates de retour
+- Respecter les **dates de retour**
+
+
+<div class="grid grid-1-2" markdown>
+  ![](https://images.ctfassets.net/lzny33ho1g45/6ogRvRgrFFojC4fFrwBjjo/7cc98f9d238d49539191a196a0d2a9de/pdfgear-app-tips-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760)
+
+  <small>Rapport de prise de son</small><br>
+  **[Rapport de Prise de son (format pdf)](./assets/documents/rapport_prise_sons_582-131MO%20(1).pdf){.stretched-link .back}**
+
+</div>
+
+## Exercice de prise de son sur le terrain
+
+<div class="grid grid-1-2" markdown>
+  ![](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/sound_devices_mixpre3_01-drWDC6CdotlzuTsm7dRzXeGc_Bn6zODs.jpg)
+
+  <small>Prise de son sur le terrain</small><br>
+  **[Prise de son sur le terrain (format pdf)](./exercices/prise-de-son.md){.stretched-link .back}**
+
+</div>
 
 
 
-## TP3 – Prise de son sur le terrain
 
-Vous devrez enregistrer différents types de sons.
+### À retenir
 
-### À l'intérieur
+- Un bon enregistrement commence par une bonne écoute.
 
-- Corridors
-- Escaliers
-- Cafétéria
-- Portes
+- Le choix du microphone est aussi important que la qualité de l'enregistreur.
 
-### À l'extérieur
-
-- Circulation
-- Nature
-- Ambiances urbaines
-
-### En studio
-
-- Voix
-- Objets
-- Bruitages
-
-
-
-## À retenir
-
-Un bon enregistrement commence par une bonne écoute.
-
-Le choix du microphone est aussi important que la qualité de l'enregistreur.
-
-Une bonne organisation des fichiers fait partie du travail du concepteur sonore.
+- Une bonne organisation des fichiers fait partie du travail du concepteur sonore.

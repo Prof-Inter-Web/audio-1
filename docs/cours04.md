@@ -33,7 +33,7 @@ Lorsque nous créons du son pour le multimédia, nous devons constamment nous de
 
 
 
-## Retour critique du TP3
+
 
 ## Évaluer une prise de son
 

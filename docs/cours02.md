@@ -146,32 +146,15 @@ Comme en photographie ou au cinéma, le son possède différents plans.
 | Une personne qui parle devant nous. | Des gens qui discutent derrière le locuteur. | La circulation au loin. |
 
 
-
-
 ## 5. La promenade sonore (Sound Walk)
 
-Une promenade sonore consiste à écouter activement son environnement.
+<div class="grid grid-1-2" markdown>
+  ![](https://www.insangel.co.uk/downloads/band_logos/20240722221923-SoundwalklogoMedRes.jpg)
 
-L'objectif est de découvrir des sons qui passent habituellement inaperçus.
+  <small>La promenade sonore</small><br>
+  **[Sound Walk](./exercices/sound-walk.md){.stretched-link .back}**
+</div>
 
-### Pendant la promenade
-
-Prendre des notes sur :
-
-
-| Fréquences    | Intensité   |  Position   |  Distance |   
-| ----------- | ----------- | ----------- | ----------- |
-| Grave  | Faible   |   Devant  |   Très proche |
-| Médium   | Moyen   |  Derrière    |   Moyenne distance    |
-| Aigu   | Fort  |  Gauche  |   Très éloigné    |
-|       |       |   Droite  |
-|       |       |   Haut  |
-|       |       |   Bas  |
-
-
-##### Texture sonore
-
-Comment décririez-vous le son ?
 
 
 
@@ -242,19 +225,30 @@ Le niveau d'enregistrement doit être suffisamment élevé sans provoquer de dis
 
 
 
-## 8. Le rapport signal/bruit
+## 8. Le rapport signal / bruit
 
-Le rapport signal/bruit compare :
+Le **rapport signal/bruit** (SNR) compare deux choses dans un enregistrement :
 
-**Signal utile ÷ Bruit indésirable**
+- le **signal** = le son que tu veux entendre (ex : une voix, un instrument)
+- le **bruit** = les sons indésirables (souffle, ventilation, bruit de fond, rue, etc.)
 
-**Exemple**
+👉 En résumé :
+**Signal utile ÷ Bruit de fond**
 
-Une voix enregistrée clairement avec peu de bruit de fond possède un bon rapport signal/bruit.
+!!! tip "En simple"
 
-**À retenir**
+    - beaucoup de signal + peu de bruit = 👍 bon son
+    - peu de signal + beaucoup de bruit = 👎 mauvais son
 
-✅ Plus le rapport signal/bruit est élevé, meilleure est la qualité de l'enregistrement.
+
+
+### 🎧 Exemple concret
+
+- Une voix enregistrée clairement dans un studio silencieux  
+👉 bon rapport signal/bruit
+
+- Une voix enregistrée dans la rue avec des voitures et du vent  
+👉 mauvais rapport signal/bruit
 
 
 
@@ -336,28 +330,15 @@ Lorsqu'un microphone est très près de la source sonore :
 * Moins de détails
 
 
+## Démo Prise de son
 
-## Préparation du TP2
+<div class="grid grid-1-2" markdown>
+  ![](https://static.sonovente.com/img/front/cms/c121ac0ee756b7a57f49a3e54f2e4475.jpg)
 
-Pendant votre prochaine promenade sonore :
-
-1. Identifiez au moins cinq objets sonores.
-2. Décrivez les différents plans sonores.
-3. Analysez les fréquences dominantes.
-4. Décrivez l'ambiance générale du lieu.
-5. Utilisez le vocabulaire vu en classe.
+  <small>Démonstration de prise de son</small><br>
+  **[Démo en avant de la classe](#){.stretched-link .back}**
+</div>
 
 
 
-## Résumé
 
-À la fin de ce cours, vous devriez être capable de :
-
-* Décrire les propriétés du son.
-* Identifier les plans sonores.
-* Analyser un paysage sonore.
-* Comprendre les bases de l'enregistrement numérique.
-* Expliquer le rapport signal/bruit.
-* Reconnaître les principaux types de microphones.
-* Comprendre l'effet de proximité.
-* Préparer une prise de son simple.

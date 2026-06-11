@@ -30,9 +30,14 @@ Réaliser un montage sonore multipiste stéréophonique.
 ## Enseignant 🌱
 
 
-| Cours Audio 1| |
-| :--- | :--- |
-| ![](./assets/profs/steph_prof.jpg) | **Stéphane Chartrand** <br> _Enseignant en Techniques d'intégration multimédia_ <br> 📧 [stephane.chartrand@cmontmorency.qc.ca](mailto:stephane.chartrand@cmontmorency.qc.ca) <br><br> [Télécharger le Plan de cours](assets/documents/plan-cours_Web_4_H2026_V2.1.pdf){ .md-button .md-button--primary } |
+<div class="grid grid-auto" markdown>
+  ![](./assets/profs/steph_prof.jpg)
+
+  **Stéphane Chartrand**<br>
+  _Enseignant en Techniques d'intégration multimédia_<br>
+  :material-microsoft-teams: [stephane.chartrand@cmontmorency.qc.ca](mailto:stephane.chartrand@cmontmorency.qc.ca)<br><br>
+  [Plan de cours :material-download:](./assets/documents/plan-cours_Web_4_H2026_V2.1.pdf){ .md-button .md-button--primary }
+</div>
 
 
 
