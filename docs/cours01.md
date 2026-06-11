@@ -77,7 +77,7 @@ Vous utiliserez :
 
 ### Consigne
 
-Constituez une petite banque de sons contenant entre **30 sons** différents et évocateurs.
+Constituez une petite banque de sons contenant entre **15 sons** différents et évocateurs.
 
 ### Objectifs
 

@@ -15,9 +15,9 @@
 
 
 
-## TP2 – Le souvenir d'un rêve
+## Le souvenir d'un rêve
 
-L'objectif du TP2 était de décrire un rêve ou un cauchemar significatif en quelques phrases.
+L'objectif de l'enregistrement en studio était de décrire un rêve ou un cauchemar significatif en quelques phrases.
 
 ### Questions à se poser
 
@@ -78,6 +78,11 @@ Les problèmes les plus fréquents sont :
 
 
 ## Dessiner un son
+
+![](https://www.ateliersmedicis.fr/sites/atelier-medicis.fr/files/styles/max_650x650/public/2019-07/compilation%20dessins%20enfants%20.jpg?itok=rGzv1cVU){data-zoom-image}
+
+<small>Source: www.ateliersmedicis.fr</small>
+  
 
 Il est possible de représenter un son graphiquement.
 
@@ -178,37 +183,15 @@ Le timbre est ce qui permet de reconnaître un son même s’il a la même note 
 
 
 
-## Projet A – Banque de sons et rêve sonore
+## Projet A – Banque de sons et rêve sonore (30%)
 
-## Objectif général
+<div class="grid grid-1-2" markdown>
+  ![](https://socialmediapro.fr/wp-content/uploads/2024/04/bibliotheque-son.jpg)
 
-Créer une banque de sons originale qui servira à une création sonore plus complexe durant la session.
+  <small>Banque de sons et rêve sonore</small><br>
+  **[Projet A](./examens/projet-a.md){.stretched-link .back}**
+</div>
 
-
-## Partie 1 – Banque de sons
-
-Vous devrez enregistrer différents sons intéressants :
-
-- Portes
-- Pas
-- Vent
-- Eau
-- Objets
-- Ambiances
-- Machines
-- Voix
-
-
-
-## Partie 2 – Récit du rêve
-
-À partir du texte du TP2 :
-
-- Enregistrer votre narration
-- Utiliser une voix claire et expressive
-- Contrôler le bruit ambiant
-
-Cette narration servira au projet intégrateur.
 
 
 
@@ -234,29 +217,87 @@ Cette narration servira au projet intégrateur.
 - Ajuster le volume
 - Utiliser la table de mixage
 
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Gestion de projet dans Reaper](./exercices/reaper1.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Importation et organisation dans Reaper](./exercices/reaper2.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Enregistrement dans Reaper](./exercices/reaper3.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Édition audio dans Reaper](./exercices/reaper4.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Navigation](./exercices/reaper5.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Mixage de base dans Reaper](./exercices/reaper6.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
+
+  <small>REAPER</small><br>
+  **[Effets audio dans Reaper (FX)](./exercices/reaper7.md){.stretched-link .back}**
+</div>
 
 
-## Conseils pendant les capsules vidéo
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
 
-- Prendre des notes
-- Tester les fonctions en même temps
-- Poser des questions
-- Avancer à son rythme
+  <small>REAPER</small><br>
+  **[Automatisation dans Reaper](./exercices/reaper8.md){.stretched-link .back}**
+</div>
 
-👉 Le but est de comprendre, pas seulement de terminer les vidéos.
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
 
+  <small>REAPER</small><br>
+  **[Routage de base dans Reaper](./exercices/reaper9.md){.stretched-link .back}**
+</div>
 
+<div class="grid grid-1-2" markdown>
+  ![](https://www.reaper.fm/v7img/ss_persp_v7.jpg)
 
-## Préparation du prochain cours
-
-- Compléter les capsules jusqu’à « 12A – Table de mixage »
-- Réfléchir aux sons pour le Projet A
-- Organiser ses fichiers
-
-
-
+  <small>REAPER</small><br>
+  **[Exportation dans Reaper](./exercices/reaper10.md){.stretched-link .back}**
+</div>
 ## À retenir
 
 - L’écoute est la base du travail sonore
 - Chaque son raconte quelque chose
 - Une banque de sons est une ressource essentielle
+
+## Exercices
+
+<div class="grid grid-1-2" markdown>
+  ![](https://images.newscientist.com/wp-content/uploads/2018/08/07151255/gettyimages-937069350.jpg?crop=4:3,smart&width=1200&height=900&upscale=true)
+
+  <small>REAPER</small><br>
+  **[Initiation à Reaper](./exercices/reaper-exe.md){.stretched-link .back}**
+</div>
