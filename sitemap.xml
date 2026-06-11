@@ -2,22 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://prof-inter-web.github.io/audio-1/index.html</loc>
-         <lastmod>2026-06-09</lastmod>
+         <lastmod>2026-06-11</lastmod>
     </url>
     <url>
          <loc>https://prof-inter-web.github.io/audio-1/cours01.html</loc>
-         <lastmod>2026-06-09</lastmod>
+         <lastmod>2026-06-11</lastmod>
     </url>
     <url>
          <loc>https://prof-inter-web.github.io/audio-1/cours02.html</loc>
-         <lastmod>2026-06-09</lastmod>
+         <lastmod>2026-06-11</lastmod>
     </url>
     <url>
          <loc>https://prof-inter-web.github.io/audio-1/cours03.html</loc>
-         <lastmod>2026-06-09</lastmod>
+         <lastmod>2026-06-11</lastmod>
     </url>
     <url>
          <loc>https://prof-inter-web.github.io/audio-1/cours04.html</loc>
-         <lastmod>2026-06-09</lastmod>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/aime-aime-pas.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/bingo.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/brise-glace.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/histoire.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/personnalite.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/prise-de-son.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/sound-device.html</loc>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://prof-inter-web.github.io/audio-1/exercices/sound-walk.html</loc>
+         <lastmod>2026-06-11</lastmod>
     </url>
 </urlset>
