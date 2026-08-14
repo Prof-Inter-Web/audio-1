@@ -373,6 +373,8 @@ CAMMINANDES_3_EQUIPE_01/
 * L'objectif n'est pas de mettre le plus de sons possible, mais de créer une **bande sonore pertinente, précise, créative et cohérente avec l'image**.
 
 
+## Démonstration
+
 <div class="grid grid-1-2" markdown>
   ![](https://blog.prosoundeffects.com/hs-fs/hubfs/DaVinci-Resolve-18-Fairlight.jpg?width=1200&name=DaVinci-Resolve-18-Fairlight.jpg)
 
