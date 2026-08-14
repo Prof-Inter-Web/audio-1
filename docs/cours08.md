@@ -371,3 +371,18 @@ CAMMINANDES_3_EQUIPE_01/
 * Le travail individuel représente **95 % de la note**.
 * Le travail d'équipe représente **5 % de la note**.
 * L'objectif n'est pas de mettre le plus de sons possible, mais de créer une **bande sonore pertinente, précise, créative et cohérente avec l'image**.
+
+
+<div class="grid grid-1-2" markdown>
+  ![](https://blog.prosoundeffects.com/hs-fs/hubfs/DaVinci-Resolve-18-Fairlight.jpg?width=1200&name=DaVinci-Resolve-18-Fairlight.jpg)
+
+  <small>Démo de l'audio dans Davinci Resolve</small><br>
+  **[Davinci Resolve](#){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.realinks.net/wp-content/uploads/2025/07/reaper-betraying-the-martyrs-3474945-1024x596.png)
+
+  <small>Démo de l'audio avec vidéo dans Reaper</small><br>
+  **[Reaper](#){.stretched-link .back}**
+</div>
