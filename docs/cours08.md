@@ -3,7 +3,9 @@
 ![](./assets/img/camminande3.jpg){data-zoom-image}<small>Source: youtube.com</small>
 
 ### Camminandes 3 (Fichiers)
-[Camminandes 3 (fichiers)](./assets/documents/Camminandes%203%20(Video).mp4.zip)
+[Camminandes 3 (fichiers vidéo)](./assets/documents/Camminandes%203%20(Video).mp4.zip)
+
+[Camminandes 3 (fichiers audio)](./assets/documents/Camminandes%203%20(Fichiers%20audio).zip)
 
 ## Camminandes 3
 
@@ -113,7 +115,9 @@ Le document doit permettre de démontrer que vous avez **planifié votre travail
 
 ## 5. Enregistrement des sons
 
-## Aucun son provenant d'une banque de sons
+!!! warning 
+
+        Aucun son provenant d'une banque de sons
 
 Tous les sons utilisés dans votre bande sonore doivent être **enregistrés par vous-même**.
 
