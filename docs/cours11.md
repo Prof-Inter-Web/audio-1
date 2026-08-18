@@ -1,5 +1,7 @@
 # Types de compression selon le média de diffusion
 
+![](https://ugc.futurelearn.com/uploads/images/6f/bb/6fbb5751-1bac-4b61-af23-601dd259a43c.jpg){data-zoom-image}<small>Source: futurelearn.com</small>
+
 La **compression audio** ne se fait pas nécessairement de la même façon selon le média sur lequel le son sera diffusé.
 
 Un fichier destiné à un **film**, à un **jeu vidéo**, à une **plateforme de diffusion en continu** ou à un **réseau social** peut avoir des exigences différentes en matière de :
@@ -14,11 +16,10 @@ Un fichier destiné à un **film**, à un **jeu vidéo**, à une **plateforme de
 
 L'objectif est toujours de trouver un équilibre entre **qualité sonore, dynamique et compatibilité avec le média de diffusion**.
 
----
 
-# 1. Compression selon le média de diffusion
+## 1. Compression selon le média de diffusion
 
-## Pourquoi adapter la compression ?
+### Pourquoi adapter la compression ?
 
 Tous les systèmes de diffusion ne reproduisent pas le son de la même manière.
 
@@ -36,7 +37,7 @@ Ces deux types de compression sont complètement différents.
 
 ---
 
-# 2. Télévision et vidéo
+#### 2. Vidéo
 
 Pour une production vidéo ou télévisuelle, on cherche généralement à conserver une dynamique relativement naturelle tout en évitant les niveaux excessifs.
 
@@ -47,7 +48,7 @@ La priorité est souvent :
 - éviter la saturation
 - respecter les normes de niveau sonore du diffuseur
 
-### Exemple
+**Exemple**
 
 Une scène peut contenir :
 
@@ -63,7 +64,7 @@ Si on compresse excessivement la piste, l'explosion risque de perdre son impact.
 
 ---
 
-# 3. Musique
+#### 3. Musique
 
 La musique demande généralement un contrôle plus important de la dynamique, particulièrement pour les productions destinées à la diffusion numérique.
 
@@ -84,7 +85,7 @@ Il faut plutôt obtenir un niveau suffisamment élevé tout en conservant :
 - la clarté
 - l'impact
 
-### Exemple
+**Exemple**
 
 Une batterie très dynamique peut avoir :
 
@@ -97,7 +98,7 @@ La compression peut réduire cet écart afin de rendre le niveau plus constant.
 
 ---
 
-# 4. Streaming et plateformes numériques
+#### 4. Streaming et plateformes numériques
 
 Les plateformes de diffusion comme YouTube, Spotify et Apple Music utilisent leurs propres systèmes de gestion du niveau sonore.
 
@@ -105,7 +106,7 @@ Une production trop forte peut donc être **réduite automatiquement** lors de l
 
 Cela signifie qu'il n'est plus toujours avantageux de chercher à rendre un fichier extrêmement fort.
 
-### Principe important
+##### Principe important
 
 > **Plus fort ne signifie pas nécessairement meilleur.**
 
@@ -113,7 +114,7 @@ Une bonne préparation doit conserver suffisamment de dynamique et éviter la di
 
 ---
 
-# 5. Jeux vidéo
+#### 5. Jeux vidéo
 
 Dans un jeu vidéo, la dynamique doit fonctionner dans des situations très différentes.
 
@@ -137,7 +138,7 @@ Cependant, une compression excessive peut enlever de l'impact aux effets.
 
 ---
 
-# 6. Réseaux sociaux et contenu mobile
+#### 6. Réseaux sociaux et contenu mobile
 
 Les vidéos destinées aux réseaux sociaux sont souvent écoutées dans des environnements bruyants et sur de petits systèmes de reproduction.
 
@@ -158,7 +159,7 @@ Une compression dynamique plus importante peut donc être pertinente.
 
 ---
 
-# 7. Contrôle de la plage dynamique
+#### 7. Contrôle de la plage dynamique
 
 La **plage dynamique** correspond à la différence entre les sons les plus faibles et les sons les plus forts d'une production.
 
@@ -175,7 +176,10 @@ Une grande plage dynamique signifie qu'il existe une grande différence entre le
 
 Une petite plage dynamique signifie que les niveaux sont plus rapprochés.
 
-### La compression dynamique
+## La compression dynamique
+
+![](https://www.easyzic.com/common/datas/dossiers/20/20/presentation-dynamique.gif){data-zoom-image} 
+<small>Source: easyzic.com</small>
 
 Le compresseur réduit automatiquement le niveau lorsque le signal dépasse un certain seuil.
 
@@ -198,13 +202,19 @@ Le son fort est rapproché du son faible.
 
 ---
 
-# 8. Normalisation des fichiers
+## Normalisation des fichiers
+
+![](https://ampedstudio.com/wp-content/webp-express/webp-images/uploads/2024/05/before-and-after-audio-normalization.jpg.webp){data-zoom-image} 
+<small>Source: ampedstudio.com</small>
 
 La **normalisation** consiste à ajuster le niveau général d'un fichier audio selon une référence.
 
 Il existe différentes façons de normaliser.
 
 ### Normalisation au peak
+
+![](./assets/img/normalisation.jpg){data-zoom-image} 
+<small>Source: ampedstudio.com</small>
 
 On ajuste le fichier en fonction de son niveau de crête.
 
@@ -225,7 +235,7 @@ Deux fichiers peuvent avoir exactement le même peak à **-1 dBFS** et sembler a
 
 ---
 
-# 9. Amplitude moyenne et perception du volume
+### Amplitude moyenne et perception du volume
 
 Pour mieux représenter le volume perçu, on utilise des mesures comme :
 
@@ -252,7 +262,7 @@ Les deux fichiers ont le même niveau de crête, mais **le fichier B semblera be
 
 ---
 
-# 10. Volume final de l'exportation
+### Volume final de l'exportation
 
 Le niveau final d'une production doit être contrôlé avant l'exportation.
 
@@ -265,7 +275,7 @@ Il faut vérifier :
 - la dynamique
 - la compatibilité avec le média de diffusion
 
-### Attention au limiteur
+**Attention au limiteur**
 
 Un limiteur placé sur le master peut empêcher le signal de dépasser un niveau déterminé.
 
@@ -286,9 +296,8 @@ Mais pousser trop fortement le limiteur peut entraîner :
 - fatigue auditive
 - perte d'impact
 
----
 
-# 11. Exemple concret
+**Exemple concret**
 
 Imaginons une scène de film comprenant :
 
@@ -316,9 +325,8 @@ L'objectif n'est donc **pas de mettre tous les sons au même niveau**.
 
 L'objectif est de contrôler la dynamique afin que chaque élément fonctionne dans le contexte de la production.
 
----
 
-# 12. Compression et normalisation : ne pas confondre
+#### Compression et normalisation : ne pas confondre
 
 | Compression dynamique | Normalisation |
 |---|---|
@@ -328,7 +336,7 @@ L'objectif est de contrôler la dynamique afin que chaque élément fonctionne d
 | Utilise seuil, ratio, attaque, release | Utilise une valeur cible |
 | Peut créer un effet sonore | Sert principalement à ajuster le niveau |
 
-### Exemple
+**Exemple**
 
 **Normalisation :**
 
@@ -350,7 +358,7 @@ Les niveaux forts ont été réduits par rapport aux niveaux faibles.
 
 ---
 
-# 13. À retenir
+**À retenir**
 
 > **La compression dynamique sert à contrôler les écarts de niveau.**
 
@@ -373,13 +381,15 @@ Elle doit être :
 
 Oui. Je te suggère de faire **2 exercices différents par motif**, avec une progression **Exercice A = technique de base** et **Exercice B = application créative**. Ça donne 20 exercices au total.
 
-# Exercices — Création de motifs sonores dans REAPER
+---
 
-## Consignes générales
+## Exercices — Création de motifs sonores dans REAPER
+
+### Consignes générales
 
 Pour chaque exercice :
 
-- Utiliser un **son source fourni par l'enseignant**.
+- Trouver un **son**.
 - Travailler dans REAPER.
 - Conserver le son original.
 - Créer une version transformée.
@@ -388,17 +398,24 @@ Pour chaque exercice :
 - Exporter le résultat en **WAV**.
 - Écouter le résultat avec un casque ou des écouteurs.
 
----
 
-# 1. Balancement
 
-## Exercice 1A — Gauche / droite
+## 1. Balancement
 
-### Objectif
+<div class="grid grid-1-2" markdown>
+  ![](./assets/img/balancement.jpg)
+
+  <small>Motif</small><br>
+  **[Balancement](./exercices/balancement.md){.stretched-link .back}**
+</div>
+
+### Exercice 1A — Gauche / droite
+
+**Objectif**
 
 Créer un mouvement régulier du son entre la gauche et la droite.
 
-### Consignes
+**Consignes**
 
 1. Importer le son dans REAPER.
 2. Ajouter une automation du **Pan**.
@@ -411,19 +428,20 @@ Gauche → Centre → Droite → Centre → Gauche
 4. Répéter le mouvement pendant toute la durée du son.
 5. Faire des transitions fluides.
 
-### Défi
+**Défi**
 
 Le mouvement doit être régulier et donner l'impression que le son se déplace réellement dans l'espace.
 
 ---
 
-## Exercice 1B — Balancement irrégulier
 
-### Objectif
+### Exercice 1B — Balancement irrégulier
+
+**Objectif**
 
 Créer un mouvement stéréo plus organique et imprévisible.
 
-### Consignes
+**Consignes**
 
 Créer une automation différente :
 
@@ -433,25 +451,32 @@ Gauche → Droite → Centre → Gauche → 70 % droite → 30 % gauche
 
 Modifier également la vitesse des déplacements.
 
-### Défi
+**Défi**
 
 Le mouvement ne doit pas suivre un rythme parfaitement régulier.
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer l'impression d'un son qui **tourne ou se déplace de façon imprévisible autour de l'auditeur**.
 
----
 
-# 2. Miroir
 
-## Exercice 2A — Original / miroir
+## 2. Miroir
 
-### Objectif
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/56145633/r/il/895651/7113477642/il_fullxfull.7113477642_9k88.jpg)
+
+  <small>Motif</small><br>
+  **[Miroir](./exercices/miroir.md){.stretched-link .back}**
+</div>
+
+### Exercice 2A — Original / miroir
+
+**Objectif**
 
 Créer une deuxième partie qui est le miroir de la première.
 
-### Consignes
+**Consignes**
 
 1. Importer un son.
 2. Couper le son en deux.
@@ -463,20 +488,19 @@ Créer une deuxième partie qui est le miroir de la première.
 ```text
 Original → Inversé
 ```
-
-### Défi
+**Défi**
 
 Créer une transition suffisamment fluide entre les deux parties.
 
 ---
 
-## Exercice 2B — Miroir stéréo
+### Exercice 2B — Miroir stéréo
 
-### Objectif
+#### Objectif
 
 Combiner inversion temporelle et déplacement stéréo.
 
-### Consignes
+**Consignes**
 
 Créer :
 
@@ -492,21 +516,28 @@ Pan droite
 
 La deuxième partie doit être le miroir temporel et spatial de la première.
 
-### Résultat recherché
+**Résultat recherché**
 
 Donner l'impression que le son est **réfléchi dans un espace sonore**.
 
----
 
-# 3. Spirale
 
-## Exercice 3A — Spirale de pitch
+## 3. Spirale
 
-### Objectif
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/53520163/r/il/8919ab/6628431287/il_fullxfull.6628431287_4fec.jpg)
+
+  <small>Motif</small><br>
+  **[Spirale](./exercices/spirale.md){.stretched-link .back}**
+</div>
+
+### Exercice 3A — Spirale de pitch
+
+**Objectif**
 
 Créer une montée ou une descente progressive du pitch.
 
-### Consignes
+**Consignes**
 
 Utiliser **ReaPitch** et automatiser le pitch.
 
@@ -516,15 +547,15 @@ Exemple :
 0 → +3 → +7 → +12 → +7 → +3 → 0
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 Le son doit donner l'impression de **tourner autour d'une hauteur centrale**.
 
 ---
 
-## Exercice 3B — Spirale complète
+### Exercice 3B — Spirale complète
 
-### Objectif
+**Objectif**
 
 Combiner plusieurs paramètres.
 
@@ -545,21 +576,28 @@ Reverb ↑
 Volume ↓
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer un son qui semble **s'éloigner dans une spirale**.
 
----
 
-# 4. Time Stretch
 
-## Exercice 4A — Ralentissement
+## 4. Time Stretch
 
-### Objectif
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/60825143/r/il/844385/7096048404/il_340x270.7096048404_3p2q.jpg)
+
+  <small>Motif</small><br>
+  **[Time Stretch](./exercices/etirement-temporel.md){.stretched-link .back}**
+</div>
+
+### Exercice 4A — Ralentissement
+
+**Objectif**
 
 Découvrir la transformation temporelle.
 
-### Consignes
+**Consignes**
 
 Créer trois versions du même son :
 
@@ -571,7 +609,7 @@ Créer trois versions du même son :
 
 Comparer les résultats.
 
-### Questions
+**Questions**
 
 - Le son reste-t-il reconnaissable ?
 - Qu'est-ce qui change dans sa texture ?
@@ -579,13 +617,13 @@ Comparer les résultats.
 
 ---
 
-## Exercice 4B — Transformation extrême
+### Exercice 4B — Transformation extrême
 
-### Objectif
+**Objectif**
 
 Utiliser le Time Stretch comme outil de sound design.
 
-### Consignes
+**Consignes**
 
 Créer une version extrêmement ralentie du son.
 
@@ -597,21 +635,27 @@ Ajouter ensuite :
 - EQ ou ReaEQ
 - éventuellement ReaPitch
 
-### Résultat recherché
+**Résultat recherché**
 
 Transformer un son ordinaire en **texture sonore**.
 
----
 
-# 5. Ping-Pong
+## 5. Ping-Pong
 
-## Exercice 5A — Delay ping-pong
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/53493144/r/il/2da5b6/6929369665/il_340x270.6929369665_eh1r.jpg)
 
-### Objectif
+  <small>Motif</small><br>
+  **[Ping-Pong](./exercices/ping-pong.md){.stretched-link .back}**
+</div>
+
+### Exercice 5A — Delay ping-pong
+
+**Objectif**
 
 Créer un écho qui se déplace alternativement entre les deux côtés.
 
-### Consignes
+**Consignes**
 
 Utiliser un **Delay** avec déplacement stéréo.
 
@@ -622,19 +666,19 @@ Echo 2 → Gauche
 Echo 3 → Droite
 ```
 
-### Défi
+**Défi**
 
 Faire diminuer progressivement les répétitions.
 
 ---
 
-## Exercice 5B — Ping-pong rythmique
+### Exercice 5B — Ping-pong rythmique
 
-### Objectif
+**Objectif**
 
 Créer un motif rythmique avec le ping-pong.
 
-### Consignes
+**Consignes**
 
 Créer plusieurs répétitions du son selon un rythme.
 
@@ -651,21 +695,25 @@ Modifier :
 - pan
 - feedback
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer un motif qui pourrait être intégré à une musique ou à un design sonore.
 
----
+## 6. Rebondissement
 
-# 6. Rebondissement
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/53493144/r/il/be2d49/6632011810/il_fullxfull.6632011810_suqp.jpg)
 
-## Exercice 6A — Objet qui tombe
+  <small>Motif</small><br>
+  **[Rebondissement](./exercices/rebondissement.md){.stretched-link .back}**
+</div>
 
-### Objectif
+### Exercice 6A — Objet qui tombe
+**Objectif**
 
 Créer l'illusion d'un objet qui tombe et rebondit.
 
-### Consignes
+**Consignes**
 
 Créer plusieurs copies du son.
 
@@ -685,19 +733,19 @@ Rebond
 Rebond
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 L'auditeur doit pouvoir imaginer un **objet physique**.
 
 ---
 
-## Exercice 6B — Rebondissement spatial
+### Exercice 6B — Rebondissement spatial
 
-### Objectif
+**Objectif**
 
 Ajouter une dimension spatiale au rebondissement.
 
-### Consignes
+**Consignes**
 
 En plus du volume et du pitch, automatiser le **Pan**.
 
@@ -712,21 +760,28 @@ Rebond 3 → Gauche
 
 Ajouter éventuellement une petite reverb.
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer l'impression que l'objet **rebondit dans un espace réel**.
 
----
 
-# 7. Flexion
 
-## Exercice 7A — Pitch Bend
+## 7. Flexion
 
-### Objectif
+<div class="grid grid-1-2" markdown>
+  ![](./assets/img/flexion.jpg)
+
+  <small>Motif</small><br>
+  **[Flexion](./exercices/flexion.md){.stretched-link .back}**
+</div>
+
+### Exercice 7A — Pitch Bend
+
+**Objectif**
 
 Créer une flexion de la hauteur.
 
-### Consignes
+**Consignes**
 
 Utiliser **ReaPitch**.
 
@@ -742,19 +797,19 @@ Puis :
 0 → -12 → 0
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer une montée et une descente de hauteur clairement perceptibles.
 
 ---
 
-## Exercice 7B — Flexion extrême
+### Exercice 7B — Flexion extrême
 
-### Objectif
+**Objectif**
 
 Créer un effet de sound design à partir du pitch.
 
-### Consignes
+**Consignes**
 
 Créer une automation plus complexe :
 
@@ -768,21 +823,27 @@ Ajouter éventuellement :
 - Delay
 - Automation de volume
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer un son qui semble **se tordre ou se déformer**.
 
----
 
-# 8. Inversion
+## 8. Inversion
 
-## Exercice 8A — Son inversé
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/26982041/r/il/2e13de/2831987695/il_fullxfull.2831987695_oat8.jpg)
 
-### Objectif
+  <small>Motif</small><br>
+  **[Inversion](./exercices/inversion.md){.stretched-link .back}**
+</div>
+
+### Exercice 8A — Son inversé
+
+**Objectif**
 
 Découvrir l'effet **Reverse**.
 
-### Consignes
+**Consignes**
 
 1. Importer le son.
 2. Dupliquer le fichier.
@@ -798,13 +859,13 @@ Identifier ce qui change dans :
 
 ---
 
-## Exercice 8B — Transition inversée
+### Exercice 8B — Transition inversée
 
-### Objectif
+**Objectif**
 
 Créer une transition sonore.
 
-### Consignes
+**Consignes**
 
 Utiliser un son inversé pour **préparer l'arrivée d'un son original**.
 
@@ -822,21 +883,27 @@ Ajouter éventuellement :
 - Delay
 - Fade-in
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer un effet de **montée ou d'aspiration vers l'impact**.
 
----
 
-# 9. Vitesse de lecture
+## 9. Vitesse de lecture
 
-## Exercice 9A — Rapide / lent
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/56355228/r/il/c52f56/6817390102/il_340x270.6817390102_pfaw.jpg)
 
-### Objectif
+  <small>Motif</small><br>
+  **[VITESSE DE LECTURE](./exercices/vitesse.md){.stretched-link .back}**
+</div>
+
+###Exercice 9A — Rapide / lent
+
+**Objectif**
 
 Observer l'effet de la vitesse de lecture sur un son.
 
-### Consignes
+**Consignes**
 
 Créer quatre versions :
 
@@ -849,7 +916,7 @@ Créer quatre versions :
 
 Comparer les résultats.
 
-### Questions
+**Questions**
 
 - Le pitch change-t-il ?
 - Le caractère du son change-t-il ?
@@ -857,13 +924,13 @@ Comparer les résultats.
 
 ---
 
-## Exercice 9B — Accélération progressive
+### Exercice 9B — Accélération progressive
 
-### Objectif
+**Objectif**
 
 Créer un son dont la vitesse augmente progressivement.
 
-### Consignes
+**Consignes**
 
 Créer plusieurs segments :
 
@@ -873,21 +940,27 @@ Lent → Moyen → Rapide → Très rapide
 
 Utiliser des changements de vitesse progressifs.
 
-### Résultat recherché
+**Résultat recherché**
 
 Créer une sensation d'**accélération**.
 
----
 
-# 10. Percussion et résonance
+## 10. Percussion et résonance
 
-## Exercice 10A — Transformer un son en percussion
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/14248419/r/il/da0826/5886412789/il_fullxfull.5886412789_t7fb.jpg)
 
-### Objectif
+  <small>Motif</small><br>
+  **[Percussion et Résonnance](./exercices/percussion-resonnance.md){.stretched-link .back}**
+</div>
+
+### Exercice 10A — Transformer un son en percussion
+
+**Objectif**
 
 Créer une percussion à partir d'un son qui n'est pas une percussion.
 
-### Consignes
+**Consignes**
 
 1. Choisir un son.
 2. En extraire une petite portion.
@@ -901,19 +974,19 @@ Exemple :
 X . X . X X . X
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 Le son doit devenir une **nouvelle percussion**.
 
 ---
 
-## Exercice 10B — Percussion résonnante
+### Exercice 10B — Percussion résonnante
 
-### Objectif
+**Objectif**
 
 Créer une percussion avec une longue résonance.
 
-### Consignes
+**Consignes**
 
 Créer une percussion puis lui ajouter :
 
@@ -923,7 +996,7 @@ Créer une percussion puis lui ajouter :
 
 Expérimenter avec la durée de la réverbération.
 
-### Défi
+**Défi**
 
 Créer trois versions :
 
@@ -933,17 +1006,16 @@ Grande salle
 Espace irréel
 ```
 
-### Résultat recherché
+**Résultat recherché**
 
 Faire entendre clairement la différence entre les trois espaces.
 
----
 
-# Projet final — Création d'un motif sonore
+## Projet final — Création d'un motif sonore
 
 Après les 20 exercices, demander aux étudiants de créer un **motif sonore original de 15 à 30 secondes**.
 
-### Contraintes
+**Contraintes**
 
 Le projet doit utiliser au minimum :
 
@@ -973,7 +1045,7 @@ Automation
 Motif sonore final
 ```
 
-### Objectif
+**Objectif**
 
 Créer un son qui pourrait être utilisé dans :
 
