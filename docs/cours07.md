@@ -2,7 +2,7 @@
 
 ![](./assets/img/reaverbate.png){data-zoom-image}<small>Source: reddit.com</small>
 
-### 1. Introduction
+## 1. ReaVerbate
 
 ReaVerbate est un plugin intégré à REAPER qui permet d'ajouter une **réverbération algorithmique** à un son.
 
@@ -17,7 +17,7 @@ Il peut être utilisé pour :
 - créer des effets de sound design
 
 
-#### 2. Ajouter ReaVerbate à une piste
+**2. Ajouter ReaVerbate à une piste**
 
 Ouvrir REAPER.
 
@@ -30,7 +30,7 @@ Dans la liste des plugins, chercher :
 Double-cliquer sur ReaVerbate pour l'ajouter à la chaîne d'effets.
 
 
-#### 3. Ajuster la taille de l'espace
+**3. Ajuster la taille de l'espace**
 
 Le paramètre **Room Size** permet de contrôler la taille virtuelle de l'espace.
 
@@ -50,7 +50,7 @@ Une valeur plus élevée peut donner l'impression d'être dans :
 > Plus l'espace est grand, plus la réverbération peut sembler longue et diffuse.
 
 
-#### 4. Contrôler la durée de la réverbération
+**4. Contrôler la durée de la réverbération**
 
 Le paramètre **Dampening** permet de contrôler la façon dont les hautes fréquences sont absorbées dans l'espace.
 
@@ -69,7 +69,7 @@ Une réverbération avec moins d'absorption peut sembler :
 Ce paramètre est particulièrement utile pour adapter la réverbération au type d'environnement recherché.
 
 
-#### 5. Ajuster le Wet et le Dry
+**5. Ajuster le Wet et le Dry**
 
 ReaVerbate permet de contrôler la quantité de son original et de son réverbéré.
 
@@ -97,7 +97,7 @@ Wet = 20 %
 peut produire une réverbération relativement subtile.
 
 
-#### 6. Pre-delay
+**6. Pre-delay**
 
 Le **Pre-delay** permet de créer un délai entre le son original et le début de la réverbération.
 
@@ -117,7 +117,7 @@ Il est particulièrement utile pour :
 - les effets sonores
 
 
-#### 7. Diffusion
+**7. Diffusion**
 
 La **Diffusion** contrôle la densité de la réverbération.
 
@@ -136,7 +136,7 @@ Une diffusion plus faible peut produire une réverbération :
 Pour un effet naturel, une diffusion élevée peut généralement donner un résultat plus réaliste.
 
 
-### 8. Effets créatifs
+**8. Effets créatifs**
 
 ReaVerbate peut également être utilisé pour le **sound design**.
 
@@ -159,7 +159,7 @@ On peut également combiner ReaVerbate avec :
 - Automation
 
 
-### 9. Utiliser ReaVerbate avec un bus
+**9. Utiliser ReaVerbate avec un bus**
 
 Une technique très utilisée consiste à créer une **piste de réverbération auxiliaire**.
 
@@ -190,7 +190,7 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 > Cela peut aider à donner une impression de cohérence entre les différents sons d'une scène.
 
 
-### 10. Automation
+**10. Automation**
 
 Les paramètres de ReaVerbate peuvent être automatisés.
 
@@ -219,7 +219,7 @@ Cette technique peut être utilisée pour créer :
 - des effets de sound design
 
 
-## 11. Conseils pratiques
+**11. Conseils pratiques**
 
 Éviter d'utiliser trop de réverbération lorsque le son doit rester clair.
 
@@ -232,7 +232,7 @@ Une réverbération excessive peut rendre un son :
 
 Commencer avec une petite quantité de Wet et augmenter progressivement.
 
-### Astuce
+**Astuce**
 
 Essayer différentes combinaisons de **Room Size**, **Dampening**, **Pre-delay** et **Wet**.
 
@@ -241,7 +241,7 @@ Essayer différentes combinaisons de **Room Size**, **Dampening**, **Pre-delay**
 Pour le sound design, ne pas hésiter à exagérer les paramètres afin d'obtenir un effet volontairement irréaliste.
 
 
-### 12. ReaVerbate vs ReaVerb
+**12. ReaVerbate vs ReaVerb**
 
 Les deux plugins permettent de créer de la réverbération, mais leur fonctionnement est différent.
 
@@ -254,7 +254,7 @@ Les deux plugins permettent de créer de la réverbération, mais leur fonctionn
 | Idéal pour expérimenter rapidement | Idéal pour reproduire des espaces précis |
 
 
-##### 13. Résumé
+**3. Résumé**
 
 ReaVerbate est un outil simple et flexible pour ajouter de la **réverbération algorithmique** dans REAPER.
 
@@ -275,25 +275,25 @@ Il permet notamment de :
 
 ![](https://static.gearspace.com/util/imgext.php?u=http%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2FR%2FReaper_Notes_2.jpg%3FGMiLjPTHikROl8yJNr5BLnn7_1RZ5Jeg%3D%26amp%3Bitok%3DBLO_vofV&h=cab9eb391b2e428ac8eba7e20ab8ef48){data-zoom-image}<small>Source: reddit.com</small>
 
-## 1. Introduction
+## 1. ReaPitch
 **ReaPitch** est un plugin intégré à REAPER qui permet de modifier la hauteur (pitch) d’un son, de créer des harmonies, ou encore des effets de transformation vocale et sonore.
 
 
-### 2. Ajouter ReaPitch à une piste
+**2. Ajouter ReaPitch à une piste**
 1. Ouvrir REAPER.
 2. Sur la piste audio, cliquer sur le bouton **FX**.
 3. Dans la liste des plugins, chercher **ReaPitch**.
 4. Double-cliquer pour l’ajouter à la chaîne d’effets.
 
 
-### 3. Modifier la hauteur d’un son
+ **3. Modifier la hauteur d’un son**
 - Dans ReaPitch, repérer la section **Shift** ou **Pitch Shift**.
 - Ajuster la valeur en **semitones (demi-tons)** :
   - +12 = une octave plus aiguë
   - -12 = une octave plus grave
 - Utiliser de petites valeurs (+/- 1 à 5) pour des ajustements naturels.
 
-### 4. Créer des harmonies
+**4. Créer des harmonies**
 1. Dans ReaPitch, ajouter une nouvelle voix (Harmony / Voice).
 2. Définir le décalage de pitch pour chaque voix :
    - Exemple :
@@ -302,14 +302,14 @@ Il permet notamment de :
 3. Ajuster le **mix (wet/dry)** pour équilibrer le son original et les harmonies.
 
 
-### 5. Utiliser le mode formant
+**5. Utiliser le mode formant**
 - Activer **Formant shift** pour préserver ou transformer le timbre.
 - Utile pour :
   - éviter l’effet “chipmunk”
   - créer des voix plus naturelles ou très artificielles
 
 
-### 6. Effets créatifs
+**6. Effets créatifs**
 ReaPitch peut être utilisé pour :
 - Voix robotisées
 - Effets de chute ou montée extrême (pitch automation)
@@ -318,20 +318,20 @@ ReaPitch peut être utilisé pour :
 
 
 
-### 7. Automation (option avancée)
+**7. Automation (option avancée)**
 1. Clic droit sur un paramètre (ex. Pitch).
 2. Choisir **Show track envelope**.
 3. Dessiner une automation pour faire varier le pitch dans le temps.
 
 
 
-### 8. Conseils pratiques
+**8. Conseils pratiques**
 - Tester plusieurs voix pour créer des textures riches.
 - Combiner ReaPitch avec reverb ou delay pour des effets plus larges.
 
 
 
-### 9. Résumé
+**9. Résumé**
 ReaPitch est un outil simple mais puissant pour transformer la hauteur des sons, créer des harmonies et explorer le sound design dans REAPER.
 
 
