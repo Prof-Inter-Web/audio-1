@@ -1,4 +1,4 @@
-# Activité d'évaluation — Sound Design
+# Activité d'évaluation — Bruitage
 
 ![](./assets/img/camminande3.jpg){data-zoom-image}<small>Source: youtube.com</small>
 
@@ -8,6 +8,10 @@
 [Camminandes 3 (fichiers audio)](./assets/documents/Camminandes%203%20(Fichiers%20audio).zip)
 
 ## Camminandes 3
+
+- Travail d’équipe | Trame sonore complète
+- Travail individuel | section de 30 secondes
+- Date de remise : Cours 11 
 
 ## 1. Description de l'activité
 
@@ -20,10 +24,10 @@ Chaque étudiant devra créer de façon individuelle la totalité de la bande so
 L'objectif est de développer vos compétences en :
 
 * analyse sonore de l'image;
-* spotting sonore;
+* recherche des besoins sonores;
 * prise de son;
-* Foley;
-* création de sound design;
+* bruitage;
+* création du bruitage;
 * traitement sonore dans Reaper;
 * synchronisation audio/image;
 * montage et mixage;
@@ -102,11 +106,11 @@ Avant de commencer les enregistrements, chaque étudiant doit remettre un docume
 
 Le document doit contenir au minimum :
 
-| Timecode | Action à l'écran        | Son nécessaire | Type de son | Méthode d'enregistrement | Lieu      | Traitement prévu |
+| Temps | Action à l'écran        | Son nécessaire | Type de son | Méthode d'enregistrement | Lieu      | Traitement prévu |
 | -------- | ----------------------- | -------------- | ----------- | ------------------------ | --------- | ---------------- |
-| 00:05    | Personnage marche       | Pas            | Foley       | Enregistrement studio    | Studio    | EQ + Reverb      |
-| 00:08    | Objet tombe             | Impact         | Foley       | Enregistrement studio    | Studio    | EQ + Pitch       |
-| 00:12    | Personnage se déplace   | Vêtement       | Foley       | Enregistrement studio    | Studio    | EQ               |
+| 00:05    | Personnage marche       | Pas            | Bruitage       | Enregistrement studio    | Studio    | EQ + Reverb      |
+| 00:08    | Objet tombe             | Impact         | Bruitage       | Enregistrement studio    | Studio    | EQ + Pitch       |
+| 00:12    | Personnage se déplace   | Vêtement       | Bruitage       | Enregistrement studio    | Studio    | EQ               |
 | 00:18    | Environnement extérieur | Ambiance       | Ambiance    | Sound Devices            | Extérieur | EQ + Automation  |
 
 Le document doit permettre de démontrer que vous avez **planifié votre travail sonore avant de procéder aux enregistrements**.
@@ -125,7 +129,7 @@ Il est interdit d'utiliser directement :
 
 * des banques de sons;
 * des effets sonores téléchargés sur Internet;
-* des bibliothèques de Foley;
+* des bibliothèques de Bruitage;
 * des sons provenant d'une autre production.
 
 Vous devez créer votre propre matériel sonore.
@@ -136,7 +140,7 @@ Vous devez créer votre propre matériel sonore.
 
 Vous pouvez enregistrer :
 
-* Foley;
+* Bruitage;
 * objets;
 * vêtements;
 * impacts;

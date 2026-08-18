@@ -4,7 +4,7 @@
 
 - Travail individuel | Fichier audionumérique (.wav et .mp3) avec dossier de travail 
 
-- Date de remise : Cours 9 (avant le cours) 
+- Date de remise : Cours 8 (avant le cours) 
 
 ### OBJECTIFS D’APPRENTISSAGE 
 
