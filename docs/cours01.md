@@ -36,8 +36,9 @@ Dans ce cours, vous allez apprendre à :
 - Ateliers de création sonore
 
 ### Évaluation
-- **Projet A** : Banque de sons (30%)
-- **Projet B** – Réduction d’entrevue (30%)
+- **Projet A** : Banque de sons (15%)
+- **Projet B** – Réduction d’entrevue (15%)
+- **Projet C** – Réduction d’entrevue (30%)
 - **Projet final** intégrateur (40%)
 
 
@@ -99,6 +100,25 @@ Il s'agit d'une réduction de narration où l'on vous entend raconter votre suje
 - Développer ses compétences en sélection et en organisation du contenu sonore.
 - Appliquer les principes de base du montage de la parole.
 - Produire un fichier audio conforme aux normes de diffusion.
+
+## Projet - C – Bruitage
+
+### Consignes
+
+Il s'agit de recréer la bande sonore du mini-film Camminandes 3.
+
+### Objectifs 
+
+- analyse sonore de l'image;
+- recherche des besoins sonores;
+- prise de son;
+- bruitage;
+- création du bruitage;
+- traitement sonore dans Reaper;
+- synchronisation audio/image;
+- montage et mixage;
+- travail collaboratif
+
 
 
 ## Projet intégrateur (fin de session)
