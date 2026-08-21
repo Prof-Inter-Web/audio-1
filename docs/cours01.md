@@ -38,7 +38,7 @@ Dans ce cours, vous allez apprendre à :
 ### Évaluation
 - **Projet A** : Banque de sons (15%)
 - **Projet B** – Réduction d’entrevue (15%)
-- **Projet C** – Réduction d’entrevue (30%)
+- **Projet C** – Bruitage (30%)
 - **Projet final** intégrateur (40%)
 
 
