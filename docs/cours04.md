@@ -17,7 +17,7 @@
 
 ## Le souvenir d'un rêve
 
-L'objectif de l'enregistrement en studio était de décrire un rêve ou un cauchemar significatif en quelques phrases.
+L'objectif de l'enregistrement en studio est de décrire un rêve ou un cauchemar significatif en quelques phrases.
 
 ### Questions à se poser
 
@@ -106,7 +106,17 @@ Cette méthode permet de réfléchir à sa structure et à son évolution.
 /\_
 ```
 
-Cette activité prépare à comprendre l'enveloppe sonore.
+
+
+## Exercice de prise de son sur le terrain
+
+<div class="grid grid-1-2" markdown>
+  ![](https://www.ateliersmedicis.fr/sites/atelier-medicis.fr/files/styles/max_650x650/public/2019-07/compilation%20dessins%20enfants%20.jpg?itok=rGzv1cVU)
+
+  <small>Exercice de dessin</small><br>
+  **[Cette activité prépare à comprendre l'enveloppe sonore.](https://www.youtube.com/watch?v=5Vb8NL3lNTs){.stretched-link .back}**
+
+</div>
 
 
 
