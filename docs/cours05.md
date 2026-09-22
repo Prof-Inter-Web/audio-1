@@ -123,8 +123,8 @@ Supprime les hautes fréquences.
 Où on agit dans le son
 
 ### Gain (dB)
-- + = boost
-- - = réduction
+- ➕ = boost
+- ➖ = réduction
 
 ### Q (largeur de bande)
 - large = correction douce
@@ -150,7 +150,7 @@ Toujours commencer par le son brut.
 
 ### 5. Ajouter de la présence
 - 2–5 kHz : clarté
-- 10 kHz+ : air
+- 10 kHz : air
 
 
 
