@@ -311,15 +311,14 @@ ReaPitch peut être utilisé pour :
 3. Dessiner une automation pour faire varier le pitch dans le temps.
 
 
-
-## 8. Conseils pratiques**
+#### Conseils pratiques**
 
 - Tester plusieurs voix pour créer des textures riches.
 - Combiner ReaPitch avec reverb ou delay pour des effets plus larges.
 
 
 
-## 9. Résumé**
+#### Résumé**
 
 ReaPitch est un outil simple mais puissant pour transformer la hauteur des sons, créer des harmonies et explorer le sound design dans REAPER.
 
