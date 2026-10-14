@@ -117,7 +117,7 @@ Il est particulièrement utile pour :
 - les effets sonores
 
 
-## 9. Effets créatifs
+## 7. Effets créatifs
 
 ReaVerbate peut également être utilisé pour le **sound design**.
 
@@ -140,7 +140,7 @@ On peut également combiner ReaVerbate avec :
 - Automation
 
 
-## 10. Utiliser ReaVerbate avec un bus
+## 8. Utiliser ReaVerbate avec un bus
 
 Une technique très utilisée consiste à créer une **piste de réverbération auxiliaire**.
 
@@ -171,7 +171,7 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 > Cela peut aider à donner une impression de cohérence entre les différents sons d'une scène.
 
 
-## 11. Automation
+## 9. Automation
 
 Les paramètres de ReaVerbate peuvent être automatisés.
 
@@ -200,7 +200,7 @@ Cette technique peut être utilisée pour créer :
 - des effets de sound design
 
 
-## 11. Conseils pratiques**
+#### 11. Conseils pratiques**
 
 Éviter d'utiliser trop de réverbération lorsque le son doit rester clair.
 
@@ -222,7 +222,7 @@ Essayer différentes combinaisons de **Room Size**, **Dampening**, **Pre-delay**
 Pour le sound design, ne pas hésiter à exagérer les paramètres afin d'obtenir un effet volontairement irréaliste.
 
 
-## 12. ReaVerbate vs ReaVerb**
+#### 12. ReaVerbate vs ReaVerb**
 
 Les deux plugins permettent de créer de la réverbération, mais leur fonctionnement est différent.
 
