@@ -104,40 +104,26 @@ Le **Pre-delay** permet de créer un délai entre le son original et le début d
 Par exemple :
 
 - **0 ms** → réverbération immédiate
-- **10–30 ms** → séparation légère
-- **30–60 ms** → séparation plus évidente
+- **10–30 ms** → démarre seulement après 10-30 ms
+- **30–60 ms** → démarre seulement après 30-60 ms
 
 Le Pre-delay peut permettre de conserver la clarté du son original tout en ajoutant de la profondeur.
-
-Il est particulièrement utile pour :
-
-- les voix
-- les dialogues
-- les percussions
-- les effets sonores
 
 
 ## 7. Effets créatifs
 
 ReaVerbate peut également être utilisé pour le **sound design**.
 
-Par exemple :
-
-- créer une ambiance très réverbérée
-- donner l'impression qu'un son provient d'un grand espace
-- créer une voix étrange
-- accentuer un impact
-- créer une transition
-- donner un caractère irréel à un son
-- créer une sensation de distance
-
-On peut également combiner ReaVerbate avec :
-
-- EQ
-- Delay
-- ReaPitch
-- Compression
-- Automation
+- 👻 Voix fantomatique
+- 🏛️ Voix dans une cathédrale
+- 🕳️ Voix dans une grotte
+- 🚇 Voix dans un tunnel
+- 📞 Voix de souvenir ou de rêve
+- 🤖 Voix d'intelligence artificielle
+- 👑 Voix de dieu ou de narrateur épique
+- 🌌 Voix dans l'espace
+- 📻 Voix provenant d'un haut-parleur lointain
+- 😴 Voix dans un rêve
 
 
 ## 8. Utiliser ReaVerbate avec un bus
@@ -146,80 +132,37 @@ Une technique très utilisée consiste à créer une **piste de réverbération 
 
 Créer une nouvelle piste.
 
-Ajouter ReaVerbate sur cette piste.
+- Ajouter ReaVerbate sur cette piste.
+- Envoyer ensuite plusieurs pistes vers cette piste de réverbération.
 
-Régler :
-
-```text
-Dry = 0 %
-Wet = 100 %
-```
-
-Envoyer ensuite plusieurs pistes vers cette piste de réverbération.
-
-Par exemple :
-
-```text
-Dialogue → Reverb
-Pas → Reverb
-Objets → Reverb
-Impacts → Reverb
-```
 
 Cette technique permet à plusieurs sons de partager le même espace acoustique.
 
-> Cela peut aider à donner une impression de cohérence entre les différents sons d'une scène.
 
 
 ## 9. Automation
 
-Les paramètres de ReaVerbate peuvent être automatisés.
-
-Clic droit sur un paramètre, par exemple :
-
-**Wet**
-
-Choisir :
-
-**Show track envelope**
-
-Dessiner ensuite une automation pour modifier la réverbération au cours du temps.
-
-Par exemple :
-
-```text
-Son sec → Réverbération faible → Réverbération forte
-```
-
-Cette technique peut être utilisée pour créer :
-
-- des transitions
-- des effets de distance
-- des changements d'ambiance
-- des effets dramatiques
-- des effets de sound design
+1. Comment créer une automation
+1. Ajouter ReaVerbate sur une piste.
+1.Cliquer sur le bouton Trim ou Envelopes de la piste.
+1. Sélectionner le paramètre à automatiser.
+1. Cocher Visible et Armée pour l'automation.
+1. Ajouter des points sur l'enveloppe.
+1. Déplacer les points pour faire varier le paramètre dans le temps.
 
 
-#### 11. Conseils pratiques**
+!!! Tip "Conseils pratiques"
 
-Éviter d'utiliser trop de réverbération lorsque le son doit rester clair.
+ Éviter d'utiliser trop de réverbération lorsque le son doit rester clair.
 
-Une réverbération excessive peut rendre un son :
+ Une réverbération excessive peut rendre un son :
 
-- brouillon
-- distant
-- peu intelligible
-- difficile à mixer
+ - brouillon
+ - distant
+ - peu intelligible
+ - difficile à mixer
 
-Commencer avec une petite quantité de Wet et augmenter progressivement.
-
-**Astuce**
-
-Essayer différentes combinaisons de **Room Size**, **Dampening**, **Pre-delay** et **Wet**.
-
-Écouter le résultat en contexte plutôt que de juger la réverbération uniquement en solo.
-
-Pour le sound design, ne pas hésiter à exagérer les paramètres afin d'obtenir un effet volontairement irréaliste.
+ Commencer avec une petite quantité de Wet et augmenter progressivement.
 
 
 #### 12. ReaVerbate vs ReaVerb**
