@@ -175,7 +175,6 @@ Tous les sons enregistrés doivent être **importés et retravaillés dans Reape
 Pour cette activité, les traitements étudiés et autorisés sont :
 
 * **EQ**
-* **Delay**
 * **Reverb**
 * **Automation**
 * **Pitch**
@@ -193,14 +192,6 @@ Utiliser l'EQ afin de :
 * corriger certaines fréquences;
 * modifier le caractère sonore;
 * faire ressortir certains éléments.
-
-### Delay
-
-Utiliser le delay afin de :
-
-* créer un écho;
-* donner une dimension particulière à un son;
-* créer un effet sonore.
 
 ### Reverb
 
