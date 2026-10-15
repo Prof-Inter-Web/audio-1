@@ -150,6 +150,7 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 1. Ajouter des points sur l'enveloppe.
 1. Déplacer les points pour faire varier le paramètre dans le temps.
 
+---
 
 !!! Tip "Conseils pratiques"
 
@@ -164,8 +165,9 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 
  Commencer avec une petite quantité de Wet et augmenter progressivement.
 
+---
 
-#### 12. ReaVerbate vs ReaVerb**
+## 10. ReaVerbate vs ReaVerb**
 
 Les deux plugins permettent de créer de la réverbération, mais leur fonctionnement est différent.
 
