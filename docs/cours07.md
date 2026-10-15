@@ -140,7 +140,7 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 
 
 
-## 9. Automation
+## 9. Automation des paramètres (ReaVerbate)
 
 1. Comment créer une automation
 1. Ajouter ReaVerbate sur une piste.
@@ -167,7 +167,7 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 
 ---
 
-## 10. ReaVerbate vs ReaVerb**
+## 10. ReaVerbate vs ReaVerb
 
 Les deux plugins permettent de créer de la réverbération, mais leur fonctionnement est différent.
 
@@ -197,7 +197,7 @@ Les deux plugins permettent de créer de la réverbération, mais leur fonctionn
 4. Double-cliquer pour l’ajouter à la chaîne d’effets.
 
 
- ## 3. Modifier la hauteur d’un son
+## 3. Modifier la hauteur d’un son
 
 - Dans ReaPitch, repérer la section **Shift** ou **Pitch Shift**.
 - Ajuster la valeur en **semitones (demi-tons)** :
@@ -221,22 +221,19 @@ ReaPitch peut être utilisé pour :
 
 - Voix robotisées
 - Effets de chute ou montée extrême (pitch automation)
-- Sound design expérimental
-- Transformation d’instruments
 
 
 
-## 6. Automation (option avancée)
-1. Clic droit sur un paramètre (ex. Pitch).
-2. Choisir **Show track envelope**.
-3. Dessiner une automation pour faire varier le pitch dans le temps.
+## 6. Automation des paramètres (ReaPitch)
+L'automation permet de faire varier automatiquement les paramètres d'un effet au cours du temps. Avec ReaPitch, on peut modifier la hauteur d'un son ou d'une voix pour créer des personnages, des transformations ou des effets sonores originaux.
 
+---
 
-#### Conseils pratiques**
+!!! Tip "Conseils pratiques"
 
-- Combiner ReaPitch avec reverb ou delay pour des effets plus larges.
+ - Combiner ReaPitch avec reverb ou delay pour des effets plus larges.
 
-
+---
 
 ## Les Motifs
 
