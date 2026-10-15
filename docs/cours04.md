@@ -241,11 +241,7 @@ Le timbre est ce qui permet de reconnaître un son même s’il a la même note 
   <small>REAPER</small><br>
   **[Exportation dans Reaper](./exercices/reaper10.md){.stretched-link .back}**
 </div>
-## À retenir
 
-- L’écoute est la base du travail sonore
-- Chaque son raconte quelque chose
-- Une banque de sons est une ressource essentielle
 
 ## Exercices
 
