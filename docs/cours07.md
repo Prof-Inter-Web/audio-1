@@ -235,7 +235,7 @@ L'automation permet de faire varier automatiquement les paramètres d'un effet a
 - Cocher Visible et Armée pour l'automation.
 - Ajouter des points sur l'enveloppe.
 - Déplacer les points pour faire varier le paramètre dans le temps.
-- 
+  
 ---
 
 !!! Tip "Conseils pratiques"
