@@ -7,6 +7,7 @@ Le **motif de flexion** est une technique de design sonore qui consiste à modif
 Cette modification est contrôlée par une **automatisation (enveloppe)** afin de créer des mouvements progressifs ou rapides dans le temps.
 
 👉 On “plie” littéralement la hauteur du son :
+
 - vers le haut → son plus aigu
 - vers le bas → son plus grave
 
