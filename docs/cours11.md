@@ -93,7 +93,7 @@ La **normalisation** consiste à ajuster le niveau général d'un fichier audio 
 
 Il existe différentes façons de normaliser.
 
-### Normalisation au peak
+## Normalisation au peak
 
 ![](./assets/img/normalisation.jpg){data-zoom-image} 
 <small>Source: ampedstudio.com</small>
@@ -127,10 +127,10 @@ La normalisation permet d'augmenter ou de diminuer automatiquement le volume d'u
 
 !!! Tip "À retenir"
 
-   - La normalisation modifie le niveau global du fichier.
-   - Elle ne corrige pas les différences de volume à l'intérieur de l'enregistrement.
-   - Elle est souvent utilisée pour rendre un fichier suffisamment fort avant le montage ou la diffusion.
-   - Une normalisation excessive peut rendre plus apparents les bruits de fond.
+- La normalisation modifie le niveau global du fichier.
+- Elle ne corrige pas les différences de volume à l'intérieur de l'enregistrement.
+- Elle est souvent utilisée pour rendre un fichier suffisamment fort avant le montage ou la diffusion.
+- Une normalisation excessive peut rendre plus apparents les bruits de fond.
 
 
 
