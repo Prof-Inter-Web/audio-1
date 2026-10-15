@@ -39,13 +39,13 @@
 
    **Exporter avant d’inverser**
    
-   A. Exportation
+ A. Exportation
    
-  - Exporter le Media Item avant inversion.
-  - Sauvegarder dans le dossier de médias.
+ - Exporter le Media Item avant inversion.
+ - Sauvegarder dans le dossier de médias.
     
-   B. Réimportation
+ B. Réimportation
    
-   - Importer le fichier exporté.
-   - Appliquer ensuite l’inversion.
-   - Le son ne sera plus perdu, car le fichier ne contient que le segment découpé.
+ - Importer le fichier exporté.
+ - Appliquer ensuite l’inversion.
+ - Le son ne sera plus perdu, car le fichier ne contient que le segment découpé.
