@@ -27,19 +27,18 @@
 - Plusieurs solutions existent pour corriger ce problème.
 
 
-## 3. Solution 1 : Naviguer dans la source du Media Item
-- Si le son est perdu après inversion, il est possible de le retrouver en parcourant la source audio.
-- Maintenir **Alt** et faire glisser le Media Item de gauche à droite pour naviguer dans le fichier.
+   - Solution 1 : Naviguer dans la source du Media Item
+    - Si le son est perdu après inversion, il est possible de le retrouver en parcourant la source audio.
+    - Maintenir **Alt** et faire glisser le Media Item de gauche à droite pour naviguer dans le fichier.
 
 
-
-## 4. Solution 2 : Exporter avant d’inverser
-### A. Exportation
-- Exporter le Media Item avant inversion :
-  - `File > Render > Source : Selected Media Item`
-- Sauvegarder dans le dossier de médias.
-
-### B. Réimportation
-- Importer le fichier exporté.
-- Appliquer ensuite l’inversion.
-- Le son ne sera plus perdu, car le fichier ne contient que le segment découpé.
+  - Solution 2 : Exporter avant d’inverser
+   - A. Exportation
+    - Exporter le Media Item avant inversion :
+      - `File > Render > Source : Selected Media Item`
+    - Sauvegarder dans le dossier de médias.
+    
+   - B. Réimportation
+    - Importer le fichier exporté.
+    - Appliquer ensuite l’inversion.
+    - Le son ne sera plus perdu, car le fichier ne contient que le segment découpé.
