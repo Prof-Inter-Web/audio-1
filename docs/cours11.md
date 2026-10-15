@@ -31,22 +31,14 @@ La compression audio utilisée dépend de l'endroit où le son sera diffusé. Ch
 | Jeux vidéo | OGG, MP3 | Taille réduite et chargement rapide |
 | Radio | MP3, AAC | Diffusion efficace avec bonne qualité |
 
-### Questions de réflexion
-
-- Pourquoi utilise-t-on des formats différents selon le média ?
-- Quels sont les avantages et les inconvénients de la compression ?
-- Quand devrait-on privilégier un fichier WAV plutôt qu'un MP3 ?
-- Une compression excessive affecte-t-elle l'expérience d'écoute ?
-- Quel format choisirais-tu pour publier un balado ? Pourquoi ?
-- Quel format choisirais-tu pour archiver un projet audio ?
 
 !!! Tip "Notions clés à retenir"
 
-   - WAV : meilleure qualité, fichiers volumineux.
-   - MP3 : plus petit, légère perte de qualité.
-   - AAC : compression plus efficace que MP3.
-   - Plus la compression est forte, plus la taille du fichier diminue.
-   - Plus la compression est forte, plus il peut y avoir une perte de qualité.
+- WAV : meilleure qualité, fichiers volumineux.
+- MP3 : plus petit, légère perte de qualité.
+- AAC : compression plus efficace que MP3.
+- Plus la compression est forte, plus la taille du fichier diminue.
+- Plus la compression est forte, plus il peut y avoir une perte de qualité.
 ---
 
 ## Contrôle de la plage dynamique
