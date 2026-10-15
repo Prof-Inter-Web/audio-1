@@ -66,6 +66,8 @@ Cette méthode permet de réfléchir à sa structure et à son évolution.
 
 ## L'enveloppe d'un son
 
+![](./assets/img/ADSR.png){data-zoom-image}<small>Source: producerhive.com</small>
+
 ### Enveloppe ADSR 
 
 | <span style="color:#b58664;">Attaque (Attack)</span> | <span style="color:#b58664;">Decay (Désintégration)</span>| <span style="color:#b58664;">Maintien (Sustain)</span> | <span style="color:#b58664;">Relâchement (Release)</span> |
