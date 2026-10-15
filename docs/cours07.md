@@ -142,9 +142,11 @@ Cette technique permet à plusieurs sons de partager le même espace acoustique.
 
 ## 9. Automation des paramètres (ReaVerbate)
 
+L'automation permet de faire varier automatiquement les paramètres d'un effet au cours du temps. Avec ReaVerbate, on peut par exemple faire évoluer la réverbération.
+
 1. Comment créer une automation
 1. Ajouter ReaVerbate sur une piste.
-1.Cliquer sur le bouton Trim ou Envelopes de la piste.
+1.Cliquer sur le bouton Trim de la piste.
 1. Sélectionner le paramètre à automatiser.
 1. Cocher Visible et Armée pour l'automation.
 1. Ajouter des points sur l'enveloppe.
@@ -225,8 +227,15 @@ ReaPitch peut être utilisé pour :
 
 
 ## 6. Automation des paramètres (ReaPitch)
-L'automation permet de faire varier automatiquement les paramètres d'un effet au cours du temps. Avec ReaPitch, on peut modifier la hauteur d'un son ou d'une voix pour créer des personnages, des transformations ou des effets sonores originaux.
+L'automation permet de faire varier automatiquement les paramètres d'un effet au cours du temps. Avec ReaPitch, on peut modifier la hauteur d'un son.
 
+- Ajouter ReaPitch sur une piste.
+- Cliquer sur le bouton Trim de la piste.
+- Sélectionner le paramètre à automatiser.
+- Cocher Visible et Armée pour l'automation.
+- Ajouter des points sur l'enveloppe.
+- Déplacer les points pour faire varier le paramètre dans le temps.
+- 
 ---
 
 !!! Tip "Conseils pratiques"
