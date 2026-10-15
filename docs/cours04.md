@@ -2,18 +2,6 @@
 
 ![](https://img.magnific.com/vecteurs-libre/egaliseur-audio-dynamique-pour-composition-musicale_1017-58529.jpg?semt=ais_hybrid&w=740&q=80){data-zoom-image}<small>Source: medium.com</small>
 
-## Objectifs du cours
-
-À la fin de cette séance, vous serez capable de :
-
-- Évaluer la qualité d'une prise de son
-- Identifier les caractéristiques d'un son intéressant
-- Comprendre la notion d'enveloppe sonore
-- Débuter l'utilisation de Reaper
-- Comprendre les attentes du Projet A
-- Préparer une banque de sons pour un projet créatif
-
-
 
 ## Le souvenir d'un rêve
 
@@ -39,41 +27,23 @@ Lorsque nous créons du son pour le multimédia, nous devons constamment nous de
 
 Lors de l'écoute de vos enregistrements, plusieurs éléments doivent être observés.
 
-### Qualité technique
-
-- Le son est-il clair ?
-- Le niveau est-il adéquat ?
-- Y a-t-il de la distorsion ?
-- Entend-on du bruit parasite ?
-
-### Intérêt sonore
-
-- Le son est-il original ?
-- Possède-t-il une texture particulière ?
-- Pourrait-il être utilisé dans une création sonore ?
+| Qualité technique | Intérêt sonore |
+|-------------------|----------------|
+| Le son est-il clair ? | Le son est-il original ? |
+| Le niveau est-il adéquat ? | Possède-t-il une texture particulière ? |
+| Y a-t-il de la distorsion ? | Pourrait-il être utilisé dans une création sonore ? |
+| Entend-on du bruit parasite ? | |
 
 
 
-## Les meilleurs sons
 
-Les meilleurs enregistrements présentent souvent :
-
-- Une bonne qualité technique
-- Une intention claire
-- Une richesse sonore intéressante
-- Une bonne gestion du microphone
-
-
-
-## Les sons à améliorer
-
-Les problèmes les plus fréquents sont :
-
-- Niveau trop faible
-- Saturation
-- Vent
-- Bruits de manipulation
-- Microphone mal positionné
+| Les meilleurs sons | Les sons à améliorer |
+|--------------------|----------------------|
+| Une bonne qualité technique | Niveau trop faible |
+| Une intention claire | Saturation |
+| Une richesse sonore intéressante | Vent |
+| Une bonne gestion du microphone | Bruits de manipulation |
+| | Microphone mal positionné |
 
 
 
