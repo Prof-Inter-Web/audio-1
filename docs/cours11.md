@@ -16,150 +16,40 @@ Un fichier destiné à un **film**, à un **jeu vidéo**, à une **plateforme de
 
 L'objectif est toujours de trouver un équilibre entre **qualité sonore, dynamique et compatibilité avec le média de diffusion**.
 
+## Types de compression selon le média de diffusion
 
-## 1. Compression selon le média de diffusion
+La compression audio utilisée dépend de l'endroit où le son sera diffusé. Chaque média a ses propres contraintes de qualité et de taille de fichier.
 
-### Pourquoi adapter la compression ?
+| Média de diffusion | Format courant | Caractéristiques |
+|-------------------|---------------|------------------|
+| Production audio | WAV | Qualité maximale, aucune compression avec perte |
+| Montage vidéo | WAV, AIFF | Préserve la qualité pendant le montage |
+| Baladodiffusion | MP3 | Bon compromis entre qualité et taille |
+| Streaming musical | MP3, AAC | Compression optimisée pour Internet |
+| Site Web | MP3 | Téléchargement rapide |
+| Téléphone mobile | AAC, MP3 | Fichiers plus légers |
+| Jeux vidéo | OGG, MP3 | Taille réduite et chargement rapide |
+| Radio | MP3, AAC | Diffusion efficace avec bonne qualité |
 
-Tous les systèmes de diffusion ne reproduisent pas le son de la même manière.
+### Questions de réflexion
 
-Par exemple, une bande sonore de film peut conserver une **grande plage dynamique**, alors qu'un contenu destiné aux réseaux sociaux peut être davantage contrôlé afin que les dialogues et les effets restent audibles sur des écouteurs ou de petits haut-parleurs.
+- Pourquoi utilise-t-on des formats différents selon le média ?
+- Quels sont les avantages et les inconvénients de la compression ?
+- Quand devrait-on privilégier un fichier WAV plutôt qu'un MP3 ?
+- Une compression excessive affecte-t-elle l'expérience d'écoute ?
+- Quel format choisirais-tu pour publier un balado ? Pourquoi ?
+- Quel format choisirais-tu pour archiver un projet audio ?
 
-Il faut donc distinguer deux notions :
+!!! Tip "Notions clés à retenir"
 
-**Compression dynamique**  
-→ réduit les différences entre les sons faibles et les sons forts.
-
-**Compression de données**  
-→ réduit la taille du fichier audio, par exemple avec MP3 ou AAC.
-
-Ces deux types de compression sont complètement différents.
-
+   - WAV : meilleure qualité, fichiers volumineux.
+   - MP3 : plus petit, légère perte de qualité.
+   - AAC : compression plus efficace que MP3.
+   - Plus la compression est forte, plus la taille du fichier diminue.
+   - Plus la compression est forte, plus il peut y avoir une perte de qualité.
 ---
 
-#### 2. Vidéo
-
-Pour une production vidéo ou télévisuelle, on cherche généralement à conserver une dynamique relativement naturelle tout en évitant les niveaux excessifs.
-
-La priorité est souvent :
-
-- conserver l'intelligibilité des dialogues
-- maintenir une dynamique cohérente
-- éviter la saturation
-- respecter les normes de niveau sonore du diffuseur
-
-**Exemple**
-
-Une scène peut contenir :
-
-```text
-Dialogue → niveau modéré
-Ambiance → faible
-Explosion → très forte
-```
-
-Si on compresse excessivement la piste, l'explosion risque de perdre son impact.
-
-**Pour le cinéma et la vidéo narrative, la dynamique fait partie de l'expérience.**
-
----
-
-#### 3. Musique
-
-La musique demande généralement un contrôle plus important de la dynamique, particulièrement pour les productions destinées à la diffusion numérique.
-
-On peut utiliser :
-
-- compression
-- EQ
-- limiteur
-- automation
-- maximisation
-
-L'objectif n'est pas nécessairement d'avoir le son le plus fort possible.
-
-Il faut plutôt obtenir un niveau suffisamment élevé tout en conservant :
-
-- les transitoires
-- la dynamique
-- la clarté
-- l'impact
-
-**Exemple**
-
-Une batterie très dynamique peut avoir :
-
-```text
-Coup faible → -18 dB
-Coup fort → -6 dB
-```
-
-La compression peut réduire cet écart afin de rendre le niveau plus constant.
-
----
-
-#### 4. Streaming et plateformes numériques
-
-Les plateformes de diffusion comme YouTube, Spotify et Apple Music utilisent leurs propres systèmes de gestion du niveau sonore.
-
-Une production trop forte peut donc être **réduite automatiquement** lors de la lecture.
-
-Cela signifie qu'il n'est plus toujours avantageux de chercher à rendre un fichier extrêmement fort.
-
-##### Principe important
-
-> **Plus fort ne signifie pas nécessairement meilleur.**
-
-Une bonne préparation doit conserver suffisamment de dynamique et éviter la distorsion.
-
----
-
-#### 5. Jeux vidéo
-
-Dans un jeu vidéo, la dynamique doit fonctionner dans des situations très différentes.
-
-Le joueur peut utiliser :
-
-- des écouteurs
-- un casque
-- des haut-parleurs de télévision
-- un système de cinéma maison
-
-Les sons doivent donc rester suffisamment audibles sans devenir agressifs.
-
-La compression peut être utilisée pour :
-
-- contrôler les explosions
-- rendre les effets plus constants
-- maintenir les dialogues audibles
-- éviter des écarts de volume trop importants
-
-Cependant, une compression excessive peut enlever de l'impact aux effets.
-
----
-
-#### 6. Réseaux sociaux et contenu mobile
-
-Les vidéos destinées aux réseaux sociaux sont souvent écoutées dans des environnements bruyants et sur de petits systèmes de reproduction.
-
-On retrouve souvent :
-
-- téléphone
-- écouteurs
-- petits haut-parleurs
-- écoute à faible volume
-
-Dans ce contexte, il est important que :
-
-- la voix reste intelligible
-- le niveau soit relativement constant
-- les éléments importants ressortent rapidement
-
-Une compression dynamique plus importante peut donc être pertinente.
-
----
-
-#### 7. Contrôle de la plage dynamique
+## Contrôle de la plage dynamique
 
 La **plage dynamique** correspond à la différence entre les sons les plus faibles et les sons les plus forts d'une production.
 
