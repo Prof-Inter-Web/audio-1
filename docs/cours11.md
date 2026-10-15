@@ -111,6 +111,8 @@ On augmente alors le niveau général de **3 dB**.
 
 ### Normaliser un fichier audio dans Reaper
 
+![](./assets/img/normalize.png){data-zoom-image}
+
 La normalisation permet d'augmenter ou de diminuer automatiquement le volume d'un élément audio afin que son pic le plus élevé atteigne un niveau cible.
 
 #### Procédure
