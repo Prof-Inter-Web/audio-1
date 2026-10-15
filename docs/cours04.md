@@ -70,16 +70,10 @@ Cette méthode permet de réfléchir à sa structure et à son évolution.
 
 ### Enveloppe ADSR 
 
-| <span style="color:#b58664;">Attaque (Attack)</span> | <span style="color:#b58664;">Decay (Désintégration)</span>| <span style="color:#b58664;">Maintien (Sustain)</span> | <span style="color:#b58664;">Relâchement (Release)</span> |
+| <span style="color:#b58664;">Attaque (Attack)</span> | <span style="color:#b58664;">Decay (Déclin)</span>| <span style="color:#b58664;">Maintien (Sustain)</span> | <span style="color:#b58664;">Relâchement (Release)</span> |
 |------------------|------------------------|----------------------|-------------------------|
 | Début du son. | Baisse du niveau après l’attaque jusqu’au sustain. | Partie stable du son. | Disparition progressive du son. |
 
-### Exemples
-
-| Attaque (Attack) | Decay (Désintégration) | Maintien (Sustain) | Relâchement (Release) |
-|------------------|------------------------|----------------------|-------------------------|
-| - Coup de marteau | - Le son d’un piano juste après la frappe qui diminue | - Note tenue au piano | - Réverbération d’une salle |
-| - Claquement de porte | - Guitare pincée qui perd rapidement de l’intensité | - Vent constant | - Son qui s’éloigne |
 
 
 
