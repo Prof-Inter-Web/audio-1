@@ -109,103 +109,27 @@ Peak désiré   : -1 dBFS
 
 On augmente alors le niveau général de **3 dB**.
 
-### Limite
+### Normaliser un fichier audio dans Reaper
 
-La normalisation au peak ne tient pas nécessairement compte de la façon dont l'oreille perçoit le volume.
+La normalisation permet d'augmenter ou de diminuer automatiquement le volume d'un élément audio afin que son pic le plus élevé atteigne un niveau cible.
 
-Deux fichiers peuvent avoir exactement le même peak à **-1 dBFS** et sembler avoir des volumes très différents.
+#### Procédure
 
----
+1. Importer ou enregistrer un fichier audio dans Reaper.
+2. Sélectionner l'élément audio à normaliser.
+3. Faire un clic droit sur l'élément.
+4. Choisir **Propriétés de l'élément...** (*Item Properties*).
+5. Cliquer sur **Normalize**.
+6. Reaper ajuste automatiquement le gain pour amener le niveau maximal à 0 dB.
+7. Écouter le résultat pour vérifier qu'aucune saturation n'est présente.
 
-### Amplitude moyenne et perception du volume
+#### À retenir
 
-Pour mieux représenter le volume perçu, on utilise des mesures comme :
+- La normalisation modifie le niveau global du fichier.
+- Elle ne corrige pas les différences de volume à l'intérieur de l'enregistrement.
+- Elle est souvent utilisée pour rendre un fichier suffisamment fort avant le montage ou la diffusion.
+- Une normalisation excessive peut rendre plus apparents les bruits de fond.
 
-- **RMS**
-- **LUFS**
-
-Le **RMS** donne une indication de l'énergie moyenne du signal.
-
-Les **LUFS** sont particulièrement utilisés pour mesurer le niveau sonore perçu d'une production.
-
-On peut donc avoir :
-
-```text
-Fichier A
-Peak : -1 dBFS
-Niveau moyen : faible
-
-Fichier B
-Peak : -1 dBFS
-Niveau moyen : élevé
-```
-
-Les deux fichiers ont le même niveau de crête, mais **le fichier B semblera beaucoup plus fort**.
-
----
-
-### Volume final de l'exportation
-
-Le niveau final d'une production doit être contrôlé avant l'exportation.
-
-Il faut vérifier :
-
-- le niveau de crête
-- le niveau moyen
-- les LUFS
-- les éventuelles saturations
-- la dynamique
-- la compatibilité avec le média de diffusion
-
-**Attention au limiteur**
-
-Un limiteur placé sur le master peut empêcher le signal de dépasser un niveau déterminé.
-
-Par exemple :
-
-```text
-Limiter
-Ceiling = -1 dB
-```
-
-Le limiteur empêche le signal de dépasser cette valeur.
-
-Mais pousser trop fortement le limiteur peut entraîner :
-
-- perte de dynamique
-- distorsion
-- pompage
-- fatigue auditive
-- perte d'impact
-
-
-**Exemple concret**
-
-Imaginons une scène de film comprenant :
-
-- dialogue
-- pas
-- ambiance
-- porte
-- explosion
-
-Sans contrôle dynamique :
-
-```text
-Dialogue       -20 dB
-Pas             -25 dB
-Ambiance        -30 dB
-Porte           -12 dB
-Explosion        -2 dB
-```
-
-L'écart entre le dialogue et l'explosion est très important.
-
-On peut utiliser de la compression et de l'automation pour contrôler certains éléments tout en conservant l'impact de l'explosion.
-
-L'objectif n'est donc **pas de mettre tous les sons au même niveau**.
-
-L'objectif est de contrôler la dynamique afin que chaque élément fonctionne dans le contexte de la production.
 
 
 #### Compression et normalisation : ne pas confondre
