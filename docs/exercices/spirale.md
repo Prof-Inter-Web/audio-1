@@ -31,7 +31,7 @@
 
 ## 2. Spirale ascendante
 - Répéter le même son plusieurs fois (les intervalles peuvent varier : plus rapides ou plus lents).
-- Augmenter progressivement le **Playback Rate** à chaque répétition.
+- Augmenter progressivement le l'interval à chaque répétition.
 - Faire osciller la spatialisation (**pan**) à chaque répétition :
   - gauche → centre → droite
 - Varier l’amplitude et la vitesse de l’oscillation pour enrichir le mouvement.
@@ -39,7 +39,7 @@
 
 ## 3. Spirale descendante
 - Répéter le même son plusieurs fois (intervalles variables possibles).
-- Réduire progressivement le **Playback Rate** à chaque répétition.
+- Réduire progressivement l'interval à chaque répétition.
 - Faire osciller la spatialisation (**pan**) à chaque répétition :
   - gauche → centre → droite
 - Jouer avec l’amplitude et la vitesse de l’oscillation pour créer un mouvement plus organique.
