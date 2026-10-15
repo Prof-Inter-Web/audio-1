@@ -275,17 +275,17 @@ L'automation permet de faire varier automatiquement les paramètres d'un effet a
 </div>
 
 <div class="grid grid-1-2" markdown>
-  ![](https://i.etsystatic.com/53493144/r/il/2da5b6/6929369665/il_340x270.6929369665_eh1r.jpg)
-
-  <small>Motif</small><br>
-  **[Ping-Pong](./exercices/ping-pong.md){.stretched-link .back}**
-</div>
-
-<div class="grid grid-1-2" markdown>
   ![](https://i.etsystatic.com/53493144/r/il/be2d49/6632011810/il_fullxfull.6632011810_suqp.jpg)
 
   <small>Motif</small><br>
   **[Rebondissement](./exercices/rebondissement.md){.stretched-link .back}**
+</div>
+
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/53493144/r/il/2da5b6/6929369665/il_340x270.6929369665_eh1r.jpg)
+
+  <small>Motif</small><br>
+  **[Ping-Pong](./exercices/ping-pong.md){.stretched-link .back}**
 </div>
 
 <div class="grid grid-1-2" markdown>
