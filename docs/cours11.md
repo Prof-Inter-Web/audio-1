@@ -123,16 +123,16 @@ La normalisation permet d'augmenter ou de diminuer automatiquement le volume d'u
 6. Reaper ajuste automatiquement le gain pour amener le niveau maximal à 0 dB.
 7. Écouter le résultat pour vérifier qu'aucune saturation n'est présente.
 
-#### À retenir
+!!! Tip "À retenir"
 
-- La normalisation modifie le niveau global du fichier.
-- Elle ne corrige pas les différences de volume à l'intérieur de l'enregistrement.
-- Elle est souvent utilisée pour rendre un fichier suffisamment fort avant le montage ou la diffusion.
-- Une normalisation excessive peut rendre plus apparents les bruits de fond.
+   - La normalisation modifie le niveau global du fichier.
+   - Elle ne corrige pas les différences de volume à l'intérieur de l'enregistrement.
+   - Elle est souvent utilisée pour rendre un fichier suffisamment fort avant le montage ou la diffusion.
+   - Une normalisation excessive peut rendre plus apparents les bruits de fond.
 
 
 
-#### Compression et normalisation : ne pas confondre
+## Compression et normalisation : ne pas confondre
 
 | Compression dynamique | Normalisation |
 |---|---|
@@ -142,50 +142,6 @@ La normalisation permet d'augmenter ou de diminuer automatiquement le volume d'u
 | Utilise seuil, ratio, attaque, release | Utilise une valeur cible |
 | Peut créer un effet sonore | Sert principalement à ajuster le niveau |
 
-**Exemple**
-
-**Normalisation :**
-
-```text
-Avant : -10 à -3 dB
-Après : -8 à -1 dB
-```
-
-Tout le signal est simplement augmenté.
-
-**Compression :**
-
-```text
-Avant : -30 à -3 dB
-Après : -25 à -10 dB
-```
-
-Les niveaux forts ont été réduits par rapport aux niveaux faibles.
-
----
-
-**À retenir**
-
-> **La compression dynamique sert à contrôler les écarts de niveau.**
-
-> **La normalisation sert à ajuster le niveau général d'un fichier.**
-
-> **Le niveau moyen influence fortement la perception du volume.**
-
-> **Le média de diffusion détermine en partie la quantité de contrôle dynamique nécessaire.**
-
-Une bonne production audio ne cherche donc pas simplement à être **la plus forte possible**.
-
-Elle doit être :
-
-- suffisamment forte
-- suffisamment dynamique
-- intelligible
-- sans distorsion
-- adaptée au média de diffusion
-- cohérente avec les autres productions du même type.
-
-Oui. Je te suggère de faire **2 exercices différents par motif**, avec une progression **Exercice A = technique de base** et **Exercice B = application créative**. Ça donne 20 exercices au total.
 
 ---
 
