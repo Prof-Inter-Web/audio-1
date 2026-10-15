@@ -235,22 +235,6 @@ Les deux plugins permettent de créer de la réverbération, mais leur fonctionn
 | Idéal pour expérimenter rapidement | Idéal pour reproduire des espaces précis |
 
 
-**Résumé**
-
-ReaVerbate est un outil simple et flexible pour ajouter de la **réverbération algorithmique** dans REAPER.
-
-Il permet notamment de :
-
-- simuler différents espaces
-- contrôler la taille de la pièce
-- modifier la diffusion
-- contrôler l'absorption des hautes fréquences
-- utiliser le Pre-delay
-- ajuster le Wet et le Dry
-- créer des ambiances
-- créer des effets de sound design
-- automatiser la réverbération
-
 ---
 
 ## ReaPitch dans REAPER
@@ -276,16 +260,8 @@ Il permet notamment de :
   - -12 = une octave plus grave
 - Utiliser de petites valeurs (+/- 1 à 5) pour des ajustements naturels.
 
-## 4. Créer des harmonies
-1. Dans ReaPitch, ajouter une nouvelle voix (Harmony / Voice).
-2. Définir le décalage de pitch pour chaque voix :
-   - Exemple :
-     - +3 demi-tons (tierce mineure)
-     - +7 demi-tons (quinte)
-3. Ajuster le **mix (wet/dry)** pour équilibrer le son original et les harmonies.
 
-
-## 5. Utiliser le mode formant
+## 4. Utiliser le mode formant
 
 - Activer **Formant shift** pour préserver ou transformer le timbre.
 - Utile pour :
@@ -294,7 +270,7 @@ Il permet notamment de :
   - créer des voix plus naturelles ou très artificielles
 
 
-## 6. Effets créatifs
+## 5. Effets créatifs
 
 ReaPitch peut être utilisé pour :
 
@@ -305,7 +281,7 @@ ReaPitch peut être utilisé pour :
 
 
 
-## 7. Automation (option avancée)
+## 6. Automation (option avancée)
 1. Clic droit sur un paramètre (ex. Pitch).
 2. Choisir **Show track envelope**.
 3. Dessiner une automation pour faire varier le pitch dans le temps.
@@ -313,14 +289,8 @@ ReaPitch peut être utilisé pour :
 
 #### Conseils pratiques**
 
-- Tester plusieurs voix pour créer des textures riches.
 - Combiner ReaPitch avec reverb ou delay pour des effets plus larges.
 
-
-
-#### Résumé**
-
-ReaPitch est un outil simple mais puissant pour transformer la hauteur des sons, créer des harmonies et explorer le sound design dans REAPER.
 
 
 ## Les Motifs
