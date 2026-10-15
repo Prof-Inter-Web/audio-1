@@ -13,7 +13,7 @@
 
 - Choisir deux sons.
 - Les monter en alternance pour créer plusieurs transitions entre eux.
-- Synchroniser la spatialisation (touche **P**) avec les transitions.
+- Ajouter la spatialisation pour les 2 sons.
 - Automatiser un paramètre d’effet (ex. fréquence d’un **Band EQ**) en lien avec les transitions.
 
 ---
@@ -24,4 +24,4 @@
 - Choisir deux sons.
 - Appliquer un **time-stretch** (≈ 10x plus long) pour obtenir un effet granuleux et texturé.
 - Superposer les deux sources sonores et créer des transitions entre elles.
-- Synchroniser la spatialisation (touche **P**) avec les transitions.
+- Ajouter la spatialisation pour les 2 sons.
