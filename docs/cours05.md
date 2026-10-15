@@ -11,17 +11,6 @@
 ## L’ÉGALISATION (EQ)
 ![](https://analogobsession.com/wp-content/uploads/2023/05/BLENDEQ-1024x665.png){data-zoom-image}<small>Source: analogobsession.com</small>
 
-### Objectifs du cours
-
-À la fin de ce cours, vous serez capable de :
-
-- Comprendre ce qu’est l’égalisation (EQ)
-- Identifier les principales plages de fréquences
-- Corriger un son avec un EQ
-- Améliorer la clarté d’un mix
-- Utiliser des filtres (low cut / high cut)
-- Éviter les erreurs fréquentes en EQ
-
 
 ## 1. Qu’est-ce que l’EQ ?
 
@@ -199,16 +188,6 @@ L’EQ sert à :
 
 👉 Mixer en contexte, jamais seulement en solo
 
-
-## Résumé
-
-L’EQ permet de :
-
-- nettoyer un son
-- corriger des défauts
-- améliorer la clarté
-- organiser un mix
-- donner de la place aux instruments
 
 !!! tip "Règle d’or"
 
