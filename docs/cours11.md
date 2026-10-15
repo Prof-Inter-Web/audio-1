@@ -186,7 +186,7 @@ Créer un mouvement régulier du son entre la gauche et la droite.
 3. Faire circuler le son :
 
 ```text
-Gauche → Centre → Droite → Centre → Gauche
+Gauche → Centre → Droite → Centre → Gauche → etc
 ```
 
 4. Répéter le mouvement pendant toute la durée du son.
@@ -210,7 +210,7 @@ Créer un mouvement stéréo plus organique et imprévisible.
 Créer une automation différente :
 
 ```text
-Gauche → Droite → Centre → Gauche → 70 % droite → 30 % gauche
+Gauche → Droite → Centre → Gauche → 70 % droite → 30 % gauche → etc
 ```
 
 Modifier également la vitesse des déplacements.
@@ -403,66 +403,6 @@ Ajouter ensuite :
 
 Transformer un son ordinaire en **texture sonore**.
 
-
-## 5. Ping-Pong
-
-<div class="grid grid-1-2" markdown>
-  ![](https://i.etsystatic.com/53493144/r/il/2da5b6/6929369665/il_340x270.6929369665_eh1r.jpg)
-
-  <small>Motif</small><br>
-  **[Ping-Pong](./exercices/ping-pong.md){.stretched-link .back}**
-</div>
-
-### Exercice 5A — Delay ping-pong
-
-**Objectif**
-
-Créer un écho qui se déplace alternativement entre les deux côtés.
-
-**Consignes**
-
-Utiliser un **Delay** avec déplacement stéréo.
-
-```text
-Original → Gauche
-Echo 1 → Droite
-Echo 2 → Gauche
-Echo 3 → Droite
-```
-
-**Défi**
-
-Faire diminuer progressivement les répétitions.
-
----
-
-### Exercice 5B — Ping-pong rythmique
-
-**Objectif**
-
-Créer un motif rythmique avec le ping-pong.
-
-**Consignes**
-
-Créer plusieurs répétitions du son selon un rythme.
-
-Exemple :
-
-```text
-G  .  D  .  G  D  .  G
-```
-
-Modifier :
-
-- délai
-- volume
-- pan
-- feedback
-
-**Résultat recherché**
-
-Créer un motif qui pourrait être intégré à une musique ou à un design sonore.
-
 ## 6. Rebondissement
 
 <div class="grid grid-1-2" markdown>
@@ -472,7 +412,7 @@ Créer un motif qui pourrait être intégré à une musique ou à un design sono
   **[Rebondissement](./exercices/rebondissement.md){.stretched-link .back}**
 </div>
 
-### Exercice 6A — Objet qui tombe
+### Exercice 5 — Objet qui tombe
 **Objectif**
 
 Créer l'illusion d'un objet qui tombe et rebondit.
@@ -501,32 +441,31 @@ Rebond
 
 L'auditeur doit pouvoir imaginer un **objet physique**.
 
----
 
-### Exercice 6B — Rebondissement spatial
+## 6. Ping-Pong
+
+<div class="grid grid-1-2" markdown>
+  ![](https://i.etsystatic.com/53493144/r/il/2da5b6/6929369665/il_340x270.6929369665_eh1r.jpg)
+
+  <small>Motif</small><br>
+  **[Ping-Pong](./exercices/ping-pong.md){.stretched-link .back}**
+</div>
+
+### Exercice 6 — Ping-pong rythmique
 
 **Objectif**
 
-Ajouter une dimension spatiale au rebondissement.
+Créer un motif rythmique avec le ping-pong.
 
 **Consignes**
 
-En plus du volume et du pitch, automatiser le **Pan**.
+Créer plusieurs répétitions du son selon un rythme.
 
 Exemple :
 
 ```text
-Impact → Centre
-Rebond 1 → Gauche
-Rebond 2 → Droite
-Rebond 3 → Gauche
+G  .  D  .  G  D  .  G → etc  + rebondissement
 ```
-
-Ajouter éventuellement une petite reverb.
-
-**Résultat recherché**
-
-Créer l'impression que l'objet **rebondit dans un espace réel**.
 
 
 
@@ -584,7 +523,6 @@ Créer une automation plus complexe :
 Ajouter éventuellement :
 
 - Reverb
-- Delay
 - Automation de volume
 
 **Résultat recherché**
@@ -614,13 +552,6 @@ Découvrir l'effet **Reverse**.
 3. Inverser la copie.
 4. Comparer avec l'original.
 
-Identifier ce qui change dans :
-
-- l'attaque
-- la décroissance
-- la texture
-- la perception du son.
-
 ---
 
 ### Exercice 8B — Transition inversée
@@ -644,7 +575,6 @@ Impact original
 Ajouter éventuellement :
 
 - Reverb
-- Delay
 - Fade-in
 
 **Résultat recherché**
@@ -679,12 +609,6 @@ Créer quatre versions :
 ```
 
 Comparer les résultats.
-
-**Questions**
-
-- Le pitch change-t-il ?
-- Le caractère du son change-t-il ?
-- Le son devient-il plus court ou plus long ?
 
 ---
 
@@ -730,7 +654,7 @@ Créer une percussion à partir d'un son qui n'est pas une percussion.
 2. En extraire une petite portion.
 3. La répéter selon un rythme.
 4. Ajuster le volume.
-5. Utiliser éventuellement un EQ et un compresseur.
+
 
 Exemple :
 
@@ -777,7 +701,7 @@ Faire entendre clairement la différence entre les trois espaces.
 
 ## Projet final — Création d'un motif sonore
 
-Après les 20 exercices, demander aux étudiants de créer un **motif sonore original de 15 à 30 secondes**.
+Créer un **motif sonore original de 15 à 30 secondes**.
 
 **Contraintes**
 
@@ -811,7 +735,7 @@ Motif sonore final
 
 **Objectif**
 
-Créer un son qui pourrait être utilisé dans :
+Créer un motif qui pourrait être utilisé dans :
 
 - un film
 - un jeu vidéo
