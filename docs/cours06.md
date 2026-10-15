@@ -10,11 +10,11 @@ Le paysage sonore représente l'ensemble des sons présents dans un environnemen
 
 ## Éléments d'un paysage sonore
 
-| Plan sonore | Description | Exemples |
-|------------|-------------|-----------|
-| **Premier plan** | Son principal qui attire immédiatement l'attention de l'auditeur. | - Une voix<br>- Un objet manipulé |
-| **Plan intermédiaire** | Sons secondaires qui accompagnent l'action principale. | - Conversations<br>- Circulation proche |
-| **Arrière-plan** | Ambiance générale qui situe l'environnement sonore. | - Vent<br>- Circulation lointaine<br>- Ventilation |
+| Plan sonore | Description |
+|------------|-------------|
+| **Premier plan** | Son principal qui attire immédiatement l'attention de l'auditeur. | 
+| **Plan intermédiaire** | Sons secondaires qui accompagnent l'action principale. |
+| **Arrière-plan** | Ambiance générale qui situe l'environnement sonore. |
 
 ## 2. Le Projet B : Le rêve sonore (30%)
 
@@ -31,21 +31,9 @@ Le paysage sonore représente l'ensemble des sons présents dans un environnemen
 
 ### Organisation recommandée
 
-#### Piste 1
-
-- Narration
-
-#### Piste 2
-
-- Ambiance
-
-#### Piste 3
-
-- Effets sonores
-
-#### Piste 4
-
-- Musique (si utilisée)
+| Piste 1 | Piste 2 | Piste 3 | Piste 4 |
+|----------|----------|----------|----------|
+| Narration | Ambiance | Effets sonores | Musique (si utilisée) |
 
 
 ### Sauvegarde
