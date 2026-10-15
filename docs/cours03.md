@@ -2,34 +2,12 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKWuVwsjP4knzmocNWCU5SXMTEE7QzdpVSw&s){data-zoom-image}<small>Source: encrypted-tbn0.gstatic.com</small>
 
-## Objectifs
-
-À la fin de ce cours, vous serez capable de :
-
-- Utiliser un enregistreur Sound Devices
-- Configurer correctement un enregistrement
-- Choisir un microphone adapté à une situation
-- Effectuer une prise de son de qualité
-- Organiser vos fichiers audio
-- Respecter les bonnes pratiques de sécurité auditive
-
-
 
 ## L'enregistreur Sound Devices
 
 ![](https://digitalomnium.com/wp-content/uploads/2019/07/IMG_3148-e1564346414557.png){data-zoom-image}<small>Source: digitalomnium.com</small>
 
 Le Sound Devices est un enregistreur audio professionnel utilisé pour capturer des sons sur le terrain ou en studio.
-
-### Vérifications avant l'enregistrement
-
-- Carte mémoire installée
-- Carte formatée
-- Batterie chargée
-- Microphone branché
-- Casque branché
-- Niveau d'entrée vérifié
-
 
 
 ## Fonction pré-enregistrement
@@ -79,12 +57,6 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 - Peu sensible aux bruits ambiants
 - Adapté aux environnements bruyants
 
-#### Exemples d'utilisation
-
-- Entrevues
-- Voix
-- Spectacles
-
 
 
 ### Microphone à condensateur
@@ -97,13 +69,6 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 - Grande qualité sonore
 - Capture beaucoup de détails
 
-#### Exemples d'utilisation
-
-- Ambiances
-- Instruments acoustiques
-- Studio
-
-
 
 ### Microphone directionnel
 
@@ -112,11 +77,6 @@ Le pré-enregistrement permet de conserver quelques secondes avant l'appui sur l
 - Capte principalement devant lui
 - Réduit les sons provenant des côtés
 
-#### Exemples d'utilisation
-
-- Tournage vidéo
-- Entrevues
-- Captation ciblée
 
 ## Les diagrammes polaires des autres microphones
 
@@ -139,11 +99,13 @@ Un signal doit être :
 
 ### Rapport signal/bruit
 
-Le signal représente le son désiré.
+- Le signal représente le son désiré.
 
-Le bruit représente les sons indésirables.
+- Le bruit représente les sons indésirables.
 
-Plus le rapport signal/bruit est élevé, meilleure est la qualité de l'enregistrement.
+!!! Tip "Rapport signal/bruit"
+
+  Plus le rapport signal/bruit est élevé, meilleure est la qualité de l'enregistrement.
 
 
 
@@ -222,15 +184,6 @@ Pour chaque enregistrement, noter :
   **[Rapport de Prise de son (format pdf)](./assets/documents/rapport_prise_sons_582-131MO%20(1).pdf){.stretched-link .back}**
 
 </div>
-
-## Emprunt du matériel
-
-### Responsabilités de l'étudiant
-
-- Vérifier le contenu du sac
-- Manipuler le matériel avec soin
-- Signaler tout problème
-- Respecter les **dates de retour**
 
 
 ## Exercice de prise de son sur le terrain
