@@ -32,8 +32,8 @@
   
  Si le son est perdu après inversion, il est possible de le retrouver en parcourant la source audio.
  
-   - Maintenir **Alt** 
-   - Glisser le **Media Item** de gauche à droite pour naviguer dans le fichier.
+  - Maintenir **Alt** 
+  - Glisser le **Media Item** de gauche à droite pour naviguer dans le fichier.
 
 !!! Tip "Solution 2"
 
@@ -41,8 +41,8 @@
    
    A. Exportation
    
-   - Exporter le Media Item avant inversion :
-   - Sauvegarder dans le dossier de médias.
+  - Exporter le Media Item avant inversion.
+  - Sauvegarder dans le dossier de médias.
     
    B. Réimportation
    
