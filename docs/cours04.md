@@ -3,47 +3,21 @@
 ![](https://img.magnific.com/vecteurs-libre/egaliseur-audio-dynamique-pour-composition-musicale_1017-58529.jpg?semt=ais_hybrid&w=740&q=80){data-zoom-image}<small>Source: medium.com</small>
 
 
-## Le souvenir d'un rêve
+## L'enregistrement en studio
 
-L'objectif de l'enregistrement en studio est de décrire un rêve ou un cauchemar significatif en quelques phrases.
+L'objectif de l'enregistrement en studio est de réaliser une prise de son de qualité en portant une attention particulière au choix du microphone, à son positionnement, aux niveaux d'enregistrement et à l'absence de bruits parasites.
 
-### Questions à se poser
+### Évaluer une prise de son
 
-- Le récit est-il clair ?
-- Peut-on imaginer facilement la scène ?
-- Quels sons pourraient illustrer cette histoire ?
-
-### Réflexion
-
-Lorsque nous créons du son pour le multimédia, nous devons constamment nous demander :
-
-> Quels sons pourraient aider à raconter cette histoire ?
-
-
-
-
-
-## Évaluer une prise de son
-
-Lors de l'écoute de vos enregistrements, plusieurs éléments doivent être observés.
-
-| Qualité technique | Intérêt sonore |
-|-------------------|----------------|
-| Le son est-il clair ? | Le son est-il original ? |
-| Le niveau est-il adéquat ? | Possède-t-il une texture particulière ? |
-| Y a-t-il de la distorsion ? | Pourrait-il être utilisé dans une création sonore ? |
-| Entend-on du bruit parasite ? | |
-
-
-
-
-| Les meilleurs sons | Les sons à améliorer |
-|--------------------|----------------------|
-| Une bonne qualité technique | Niveau trop faible |
-| Une intention claire | Saturation |
-| Une richesse sonore intéressante | Vent |
-| Une bonne gestion du microphone | Bruits de manipulation |
-| | Microphone mal positionné |
+- Mon enregistrement est-il clair et facile à comprendre ?
+- Les niveaux sonores sont-ils adéquats ?
+- Y a-t-il des bruits parasites ou des défauts techniques ?
+- Le microphone est-il bien positionné ?
+- Le son capté correspond-il à mon intention de départ ?
+- Ai-je choisi le bon microphone pour cette source sonore ?
+- L'enregistrement met-il en valeur les caractéristiques du son ?
+- La qualité obtenue est-elle suffisante pour une diffusion ou un projet créatif ?
+- Que pourrais-je améliorer lors d'une prochaine prise de son ?
 
 
 
