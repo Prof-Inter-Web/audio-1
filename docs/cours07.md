@@ -246,7 +246,7 @@ L'automation permet de faire varier automatiquement les paramètres d'un effet a
 
 ## Bruiteur
 
-![]([./assets/img/reav](https://i0.wp.com/www.geek-otaku-news.com/wp-content/uploads/2020/09/metier.jpg?w=1140&ssl=1)erbate.png){data-zoom-image}<small>Source: www.geek-otaku-news.com</small>
+![](https://i0.wp.com/www.geek-otaku-news.com/wp-content/uploads/2020/09/metier.jpg?w=1140&ssl=1){data-zoom-image}<small>Source: www.geek-otaku-news.com</small>
 
 # Le bruiteur au cinéma
 
