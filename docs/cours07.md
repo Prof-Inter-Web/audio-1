@@ -244,6 +244,47 @@ L'automation permet de faire varier automatiquement les paramètres d'un effet a
 
 ---
 
+## Bruiteur
+
+![]([./assets/img/reav](https://i0.wp.com/www.geek-otaku-news.com/wp-content/uploads/2020/09/metier.jpg?w=1140&ssl=1)erbate.png){data-zoom-image}<small>Source: www.geek-otaku-news.com</small>
+
+# Le bruiteur au cinéma
+
+Un **bruiteur** est un spécialiste du son qui recrée et enregistre en studio les bruits synchronisés avec les actions visibles à l'écran.
+
+## Rôle du bruiteur
+
+Le bruiteur produit des sons tels que :
+
+- Les pas des personnages
+- Les portes qui s'ouvrent ou se ferment
+- Les vêtements qui froissent
+- Les objets manipulés (clés, livres, verres, etc.)
+- Les coups, chutes et bagarres
+- Certains bruits d'animaux ou d'éléments naturels
+
+## Pourquoi faire du bruitage?
+
+Les sons enregistrés lors du tournage ne sont pas toujours assez clairs ou réalistes. Le bruitage permet :
+
+- D'améliorer la qualité sonore
+- D'accentuer le réalisme des actions
+- De renforcer l'impact dramatique ou comique d'une scène
+- De rendre certains sons plus audibles pour le spectateur
+
+## Comment travaille un bruiteur?
+
+Le bruiteur utilise différents objets pour reproduire les sons :
+
+- Des chaussures pour les pas
+- Du papier ou du tissu pour les vêtements
+- Des objets du quotidien pour simuler diverses actions
+- Des accessoires spécialement choisis pour créer des effets sonores précis
+
+## À retenir
+
+> Le bruiteur recrée manuellement les sons des actions visibles à l'image afin d'améliorer le réalisme et l'immersion sonore d'une production audiovisuelle.
+
 ## Les Motifs
 
 <div class="grid grid-1-2" markdown>
