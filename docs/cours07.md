@@ -285,6 +285,10 @@ Le bruiteur utilise différents objets pour reproduire les sons :
 
 > Le bruiteur recrée manuellement les sons des actions visibles à l'image afin d'améliorer le réalisme et l'immersion sonore d'une production audiovisuelle.
 
+![type:video](https://www.youtube.com/watch?v=GxWaqe7X-Aw)
+
+![type:video](https://www.youtube.com/watch?v=3EjP0VSgfZQ)
+
 ## Les Motifs
 
 <div class="grid grid-1-2" markdown>
