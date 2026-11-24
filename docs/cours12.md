@@ -13,7 +13,8 @@
 
 ## Exemples
 # 1
-![type:audio](_/assets/audio/gravel_kellie.mp3)
+![type:audio](./assets/audio/gravel_kellie.mp3)
+
 # 2
 ![type:audio](_/assets/audio/brisebois_alicia.mp3)
 #3
