@@ -11,6 +11,17 @@
 **Fichier audionumérique (.wav) de 2 minutes avec dossier de travail**  
 **Date de remise : Cours 15 (avant le cours)**
 
+## Exemples
+# 1
+![type:audio](_/assets/audio/gravel_kellie.mp3)
+# 2
+![type:audio](_/assets/audio/brisebois_alicia.mp3)
+#3
+![type:audio](_/assets/audio/gutierrez_gael.mp3)
+#4
+![type:audio](_/assets/audio/bozelko_thomas.mp3)
+#5
+![type:audio](_/assets/audio/nadeau_marc_olivier.mp3)
 
 ## OBJECTIFS D’APPRENTISSAGE
 
