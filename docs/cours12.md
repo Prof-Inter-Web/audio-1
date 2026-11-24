@@ -16,13 +16,16 @@
 ![type:audio](./assets/audio/gravel_kellie.mp3)
 
 # 2
-![type:audio](_/assets/audio/brisebois_alicia.mp3)
+![type:audio](./assets/audio/brisebois_alicia.mp3)
+
 #3
-![type:audio](_/assets/audio/gutierrez_gael.mp3)
+![type:audio](./assets/audio/gutierrez_gael.mp3)
+
 #4
-![type:audio](_/assets/audio/bozelko_thomas.mp3)
+![type:audio](./assets/audio/bozelko_thomas.mp3)
+
 #5
-![type:audio](_/assets/audio/nadeau_marc_olivier.mp3)
+![type:audio](./assets/audio/nadeau_marc_olivier.mp3)
 
 ## OBJECTIFS D’APPRENTISSAGE
 
